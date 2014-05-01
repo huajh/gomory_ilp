@@ -1,0 +1,1461 @@
+LP:                Optimal objective value is 1.500000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.00         1   2.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 2, [k, d, n] = [2, 1, 2], x = [ 1 0 1]
+
+
+LP:                Optimal objective value is 1.750000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       8      0.00         1   3.000000e+00   3.332223e-02                                          
+      10      0.00         1   3.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 3, [k, d, n] = [3, 1, 3], x = [ 1 0 0 1 1 1 -1]
+
+
+LP:                Optimal objective value is 3.500000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.00         1   4.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 4, [k, d, n] = [3, 2, 4], x = [ 1 1 0 1 0 0 1]
+
+
+LP:                Optimal objective value is 5.250000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       8      0.00         1   6.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 6, [k, d, n] = [3, 3, 6], x = [ 1 1 1 1 1 1 0]
+
+
+LP:                Optimal objective value is 1.875000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     124      0.01         1   4.000000e+00   2.499375e-02                                          
+     790      0.04         1   4.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 4, [k, d, n] = [4, 1, 4], x = [ 1 0 1 0 0 -1 1 1 0 0 0 1 0 0 0]
+
+
+LP:                Optimal objective value is 3.750000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      32      0.01         1   5.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 5, [k, d, n] = [4, 2, 5], x = [ 0 1 -1 1 0 1 1 0 0 0 0 0 0 1 1]
+
+
+LP:                Optimal objective value is 5.625000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     100      0.01         1   7.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 7, [k, d, n] = [4, 3, 7], x = [ 0 1 1 1 1 0 1 -1 1 1 0 0 1 0 0]
+
+
+LP:                Optimal objective value is 7.500000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.00         1   8.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 8, [k, d, n] = [4, 4, 8], x = [ 0 0 1 0 0 0 1 1 1 1 0 1 0 1 1]
+
+
+LP:                Optimal objective value is 9.375000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     348      0.02         1   1.100000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 11, [k, d, n] = [4, 5, 11], x = [ 1 -1 1 0 1 1 1 1 1 1 0 1 1 1 1]
+
+
+LP:                Optimal objective value is 11.250000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      22      0.00         1   1.200000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 12, [k, d, n] = [4, 6, 12], x = [ 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1]
+
+
+LP:                Optimal objective value is 13.125000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      94      0.01         1   1.400000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 14, [k, d, n] = [4, 7, 14], x = [ 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 15.000000.                                            
+
+
+Optimal solution found.
+
+Intlinprog stopped at the root node because the objective value is within a gap tolerance
+of the optimal value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 15, [k, d, n] = [4, 8, 15], x = [ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 16.875000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     128      0.01         1   1.900000e+01   5.262881e-03                                          
+     770      0.04         1   1.900000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 19, [k, d, n] = [4, 9, 19], x = [ 2 1 2 2 0 0 1 2 2 1 1 2 1 1 1]
+
+
+LP:                Optimal objective value is 18.750000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      32      0.01         1   2.000000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 20, [k, d, n] = [4, 10, 20], x = [ 1 2 0 2 1 2 2 1 1 1 1 1 1 2 2]
+
+
+LP:                Optimal objective value is 20.625000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     112      0.01         1   2.200000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 22, [k, d, n] = [4, 11, 22], x = [ 1 2 2 2 2 1 2 0 2 2 1 1 2 1 1]
+
+
+LP:                Optimal objective value is 22.500000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.00         1   2.300000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 23, [k, d, n] = [4, 12, 23], x = [ 1 1 2 1 1 1 2 2 2 2 1 2 1 2 2]
+
+
+LP:                Optimal objective value is 24.375000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     348      0.02         1   2.600000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 26, [k, d, n] = [4, 13, 26], x = [ 2 0 2 1 2 2 2 2 2 2 1 2 2 2 2]
+
+
+LP:                Optimal objective value is 26.250000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      22      0.01         1   2.700000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 27, [k, d, n] = [4, 14, 27], x = [ 2 2 2 2 2 2 2 2 1 2 2 1 1 2 2]
+
+
+LP:                Optimal objective value is 28.125000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      94      0.01         1   2.900000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal
+value; options.TolGapAbs = 0 (the default value). The intcon variables are
+integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 29, [k, d, n] = [4, 15, 29], x = [ 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+
+LP:                Optimal objective value is 1.937500.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      12      0.01         1   5.000000e+00   4.001200e+01                                          
+    3612      0.18         1   5.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+
+LP:                Optimal objective value is 1.937500.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      12      0.01         1   5.000000e+00   4.001200e+01                                          
+    3612      0.18         1   5.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 5, [k, d, n] = [5, 1, 5], x = [ 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0]
+
+
+LP:                Optimal objective value is 3.875000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       8      0.01         1   6.000000e+00   1.668055e+01                                          
+     258      0.03         1   6.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 6, [k, d, n] = [5, 2, 6], x = [ 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+
+
+LP:                Optimal objective value is 5.812500.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      35      0.01         1   9.000000e+00   1.112099e+01                                          
+   10035      0.74         1   9.000000e+00   1.110988e-02                                          
+   20035      1.50         1   9.000000e+00   1.110988e-02                                          
+   30035      2.30         1   9.000000e+00   1.110988e-02                                          
+   40035      3.11         1   9.000000e+00   1.110988e-02                                          
+   50035      3.92         1   9.000000e+00   1.110988e-02                                          
+   60035      4.72         1   9.000000e+00   1.110988e-02                                          
+   70035      5.50         1   9.000000e+00   1.110988e-02                                          
+   80035      6.26         1   9.000000e+00   1.110988e-02                                          
+   90035      7.02         1   9.000000e+00   1.110988e-02                                          
+  100035      7.74         1   9.000000e+00   1.110988e-02                                          
+  110035      8.43         1   9.000000e+00   1.110988e-02                                          
+  120035      9.09         1   9.000000e+00   1.110988e-02                                          
+  130035      9.69         1   9.000000e+00   1.110988e-02                                          
+  133835      9.90         1   9.000000e+00   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 8, [k, d, n] = [5, 3, 9], x = [ 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0]
+
+
+LP:                Optimal objective value is 7.750000.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      32      0.01         1   1.000000e+01   9.999000e-03                                          
+    1972      0.21         1   1.000000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 9, [k, d, n] = [5, 4, 10], x = [ 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 1 0 0 0 0]
+
+
+LP:                Optimal objective value is 9.687500.                                             
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     127      0.02         1   1.400000e+01   1.429184e+01                                          
+     383      0.05         2   1.300000e+01   7.699408e+00                                          
+   10383      1.04         2   1.300000e+01   7.691716e-03                                          
+   20383      1.96         2   1.300000e+01   7.691716e-03                                          
+   30383      2.88         2   1.300000e+01   7.691716e-03                                          
+   40383      4.08         2   1.300000e+01   7.691716e-03                                          
+   50383      5.01         2   1.300000e+01   7.691716e-03                                          
+   60383      6.22         2   1.300000e+01   7.691716e-03                                          
+   70383      7.13         2   1.300000e+01   7.691716e-03                                          
+   80383      8.14         2   1.300000e+01   7.691716e-03                                          
+   90383      9.08         2   1.300000e+01   7.691716e-03                                          
+  100383     10.01         2   1.300000e+01   7.691716e-03                                          
+  110383     10.90         2   1.300000e+01   7.691716e-03                                          
+  120383     11.78         2   1.300000e+01   7.691716e-03                                          
+  130383     12.62         2   1.300000e+01   7.691716e-03                                          
+  140383     13.49         2   1.300000e+01   7.691716e-03                                          
+  150383     14.26         2   1.300000e+01   7.691716e-03                                          
+  160383     14.99         2   1.300000e+01   7.691716e-03                                          
+  170383     15.64         2   1.300000e+01   7.691716e-03                                          
+  180383     16.53         2   1.300000e+01   7.691716e-03                                          
+  190383     17.37         2   1.300000e+01   7.691716e-03                                          
+  200383     18.21         2   1.300000e+01   7.691716e-03                                          
+  210383     19.08         2   1.300000e+01   7.691716e-03                                          
+  220383     19.98         2   1.300000e+01   7.691716e-03                                          
+  230383     20.90         2   1.300000e+01   7.691716e-03                                          
+  240383     21.81         2   1.300000e+01   7.691716e-03                                          
+  250383     22.72         2   1.300000e+01   7.691716e-03                                          
+  260383     23.61         2   1.300000e+01   7.691716e-03                                          
+  270383     24.44         2   1.300000e+01   7.691716e-03                                          
+  280383     25.22         2   1.300000e+01   7.691716e-03                                          
+  290383     25.95         2   1.300000e+01   7.691716e-03                                          
+  300383     26.69         2   1.300000e+01   7.691716e-03                                          
+  310383     27.44         2   1.300000e+01   7.691716e-03                                          
+  320383     28.31         2   1.300000e+01   7.691716e-03                                          
+  330383     29.22         2   1.300000e+01   7.691716e-03                                          
+  340383     30.38         2   1.300000e+01   7.691716e-03                                          
+  350383     31.26         2   1.300000e+01   7.691716e-03                                          
+  360383     32.18         2   1.300000e+01   7.691716e-03                                          
+  370383     33.12         2   1.300000e+01   7.691716e-03                                          
+  380383     34.15         2   1.300000e+01   7.691716e-03                                          
+  390383     34.87         2   1.300000e+01   7.691716e-03                                          
+  400383     35.55         2   1.300000e+01   7.691716e-03                                          
+  410383     36.32         2   1.300000e+01   7.691716e-03                                          
+  420383     37.08         2   1.300000e+01   7.691716e-03                                          
+  430383     37.82         2   1.300000e+01   7.691716e-03                                          
+  440383     38.53         2   1.300000e+01   7.691716e-03                                          
+  450383     39.36         2   1.300000e+01   7.691716e-03                                          
+  460383     40.17         2   1.300000e+01   7.691716e-03                                          
+  470383     41.02         2   1.300000e+01   7.691716e-03                                          
+  480383     41.90         2   1.300000e+01   7.691716e-03                                          
+  490383     42.81         2   1.300000e+01   7.691716e-03                                          
+  500383     43.77         2   1.300000e+01   7.691716e-03                                          
+  510383     44.88         2   1.300000e+01   7.691716e-03                                          
+  520383     45.61         2   1.300000e+01   7.691716e-03                                          
+  530383     46.28         2   1.300000e+01   7.691716e-03                                          
+  540383     47.04         2   1.300000e+01   7.691716e-03                                          
+  550383     47.74         2   1.300000e+01   7.691716e-03                                          
+  560383     48.43         2   1.300000e+01   7.691716e-03                                          
+  570383     49.08         2   1.300000e+01   7.691716e-03                                          
+  580383     49.85         2   1.300000e+01   7.691716e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+  590383     50.63         2   1.300000e+01   7.691716e-03                                          
+  600383     51.44         2   1.300000e+01   7.691716e-03                                          
+  610383     52.29         2   1.300000e+01   7.691716e-03                                          
+  620383     53.15         2   1.300000e+01   7.691716e-03                                          
+  630383     54.27         2   1.300000e+01   7.691716e-03                                          
+  640383     55.12         2   1.300000e+01   7.691716e-03                                          
+  650383     55.96         2   1.300000e+01   7.691716e-03                                          
+  660383     56.75         2   1.300000e+01   7.691716e-03                                          
+  670383     57.51         2   1.300000e+01   7.691716e-03                                          
+  680383     58.23         2   1.300000e+01   7.691716e-03                                          
+  690383     58.91         2   1.300000e+01   7.691716e-03                                          
+  700383     59.72         2   1.300000e+01   7.691716e-03                                          
+  710383     60.48         2   1.300000e+01   7.691716e-03                                          
+  720383     61.24         2   1.300000e+01   7.691716e-03                                          
+  730383     62.00         2   1.300000e+01   7.691716e-03                                          
+  740383     62.75         2   1.300000e+01   7.691716e-03                                          
+  750383     63.46         2   1.300000e+01   7.691716e-03                                          
+  760383     64.11         2   1.300000e+01   7.691716e-03                                          
+  770383     64.97         2   1.300000e+01   7.691716e-03                                          
+  780383     65.84         2   1.300000e+01   7.691716e-03                                          
+  790383     66.73         2   1.300000e+01   7.691716e-03                                          
+  800383     67.83         2   1.300000e+01   7.691716e-03                                          
+  810383     68.65         2   1.300000e+01   7.691716e-03                                          
+  820383     69.50         2   1.300000e+01   7.691716e-03                                          
+  830383     70.37         2   1.300000e+01   7.691716e-03                                          
+  840383     71.21         2   1.300000e+01   7.691716e-03                                          
+  850383     72.04         2   1.300000e+01   7.691716e-03                                          
+  860383     72.86         2   1.300000e+01   7.691716e-03                                          
+  870383     73.66         2   1.300000e+01   7.691716e-03                                          
+  880383     74.40         2   1.300000e+01   7.691716e-03                                          
+  890383     75.09         2   1.300000e+01   7.691716e-03                                          
+  900383     75.85         2   1.300000e+01   7.691716e-03                                          
+  910383     76.72         2   1.300000e+01   7.691716e-03                                          
+  920383     77.56         2   1.300000e+01   7.691716e-03                                          
+  930383     78.43         2   1.300000e+01   7.691716e-03                                          
+  940383     79.61         2   1.300000e+01   7.691716e-03                                          
+  950383     80.43         2   1.300000e+01   7.691716e-03                                          
+  960383     81.25         2   1.300000e+01   7.691716e-03                                          
+  970383     82.05         2   1.300000e+01   7.691716e-03                                          
+  980383     82.80         2   1.300000e+01   7.691716e-03                                          
+  990383     83.54         2   1.300000e+01   7.691716e-03                                          
+ 1000383     84.28         2   1.300000e+01   7.691716e-03                                          
+ 1010383     85.02         2   1.300000e+01   7.691716e-03                                          
+ 1020383     85.78         2   1.300000e+01   7.691716e-03                                          
+ 1030383     86.51         2   1.300000e+01   7.691716e-03                                          
+ 1040383     87.23         2   1.300000e+01   7.691716e-03                                          
+ 1050383     87.91         2   1.300000e+01   7.691716e-03                                          
+ 1060383     88.62         2   1.300000e+01   7.691716e-03                                          
+ 1070383     89.43         2   1.300000e+01   7.691716e-03                                          
+ 1080383     90.25         2   1.300000e+01   7.691716e-03                                          
+ 1090383     91.08         2   1.300000e+01   7.691716e-03                                          
+ 1100383     91.88         2   1.300000e+01   7.691716e-03                                          
+ 1110383     92.73         2   1.300000e+01   7.691716e-03                                          
+ 1120383     93.57         2   1.300000e+01   7.691716e-03                                          
+ 1130383     94.39         2   1.300000e+01   7.691716e-03                                          
+ 1140383     95.49         2   1.300000e+01   7.691716e-03                                          
+ 1150383     96.26         2   1.300000e+01   7.691716e-03                                          
+ 1160383     97.02         2   1.300000e+01   7.691716e-03                                          
+ 1170383     97.76         2   1.300000e+01   7.691716e-03                                          
+ 1180383     98.46         2   1.300000e+01   7.691716e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 1190383     99.10         2   1.300000e+01   7.691716e-03                                          
+ 1200383     99.88         2   1.300000e+01   7.691716e-03                                          
+ 1210383    100.58         2   1.300000e+01   7.691716e-03                                          
+ 1220383    101.29         2   1.300000e+01   7.691716e-03                                          
+ 1230383    101.95         2   1.300000e+01   7.691716e-03                                          
+ 1240383    102.62         2   1.300000e+01   7.691716e-03                                          
+ 1250383    103.31         2   1.300000e+01   7.691716e-03                                          
+ 1260383    103.94         2   1.300000e+01   7.691716e-03                                          
+ 1260431    103.94         2   1.300000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 12, [k, d, n] = [5, 5, 13], x = [ 0 2 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 1 0 1 1 0 1 1 0]
+
+
+LP:                Optimal objective value is 11.625000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      87      0.02         1   1.400000e+01   7.142347e-03                                          
+    9561      1.00         1   1.400000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 13, [k, d, n] = [5, 6, 14], x = [ 0 1 1 1 1 1 0 0 0 0 2 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 1]
+
+
+LP:                Optimal objective value is 13.562500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     188      0.03         1   1.600000e+01   6.249609e-03                                          
+     231      0.04         2   1.500000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 15, [k, d, n] = [5, 7, 15], x = [ 0 0 1 0 0 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0 0 1 0 0]
+
+
+LP:                Optimal objective value is 15.500000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.01         1   1.600000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 16, [k, d, n] = [5, 8, 16], x = [ 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0]
+
+
+LP:                Optimal objective value is 17.437500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+   10000      1.29         0              -              -                                          
+   20000      2.70         0              -              -                                          
+   30000      4.10         0              -              -                                          
+   40000      5.50         0              -              -                                          
+   50000      6.87         0              -              -                                          
+   60000      8.21         0              -              -                                          
+   69031      9.47         1   2.000000e+01   4.999750e-03                                          
+   79031     10.84         1   2.000000e+01   4.999750e-03                                          
+   89031     11.84         1   2.000000e+01   4.999750e-03                                          
+   91977     12.11         1   2.000000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 20, [k, d, n] = [5, 9, 20], x = [ 0 0 1 1 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 0 1 1 1 1 1 0 1 1]
+
+
+LP:                Optimal objective value is 19.375000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     152      0.03         1   2.200000e+01   4.549793e+00                                          
+     400      0.07         2   2.100000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 21, [k, d, n] = [5, 10, 21], x = [ 1 1 1 1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 1 0 1 1 1 1 0 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 21.312500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    1588      0.22         1   2.400000e+01   4.166493e-03                                          
+    2188      0.30         2   2.300000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 23, [k, d, n] = [5, 11, 23], x = [ 0 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 0 1 1 0 1]
+
+
+LP:                Optimal objective value is 23.250000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      24      0.01         1   2.500000e+01   3.999840e-03                                          
+      26      0.01         2   2.400000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 24, [k, d, n] = [5, 12, 24], x = [ 0 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 0]
+
+
+LP:                Optimal objective value is 25.187500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    1119      0.17         1   2.700000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 27, [k, d, n] = [5, 13, 27], x = [ 0 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 27.125000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     250      0.05         1   2.800000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 28, [k, d, n] = [5, 14, 28], x = [ 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+
+
+LP:                Optimal objective value is 29.062500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     819      0.13         1   3.100000e+01   3.225702e-03                                          
+     958      0.15         2   3.000000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 30, [k, d, n] = [5, 15, 30], x = [ 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 31.000000.                                            
+
+
+Optimal solution found.
+
+Intlinprog stopped at the root node because the objective value is within a gap tolerance of the optimal value;
+options.TolGapAbs = 0 (the default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05
+(the default value).
+
+Gries_bound = 31, [k, d, n] = [5, 16, 31], x = [ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+
+
+LP:                Optimal objective value is 32.937500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+   10000      1.55         0              -              -                                          
+   20000      3.09         0              -              -                                          
+   30000      4.58         0              -              -                                          
+   40000      5.94         0              -              -                                          
+   50000      7.32         0              -              -                                          
+   60000      8.63         0              -              -                                          
+   70000      9.97         0              -              -                                          
+   80000     11.23         0              -              -                                          
+   90000     12.61         0              -              -                                          
+  100000     13.97         0              -              -                                          
+  101730     14.17         1   3.600000e+01   2.777701e-03                                          
+  111730     15.20         1   3.600000e+01   2.777701e-03                                          
+  121730     16.18         1   3.600000e+01   2.777701e-03                                          
+  131730     17.14         1   3.600000e+01   2.777701e-03                                          
+  141730     18.24         1   3.600000e+01   2.777701e-03                                          
+  151730     19.33         1   3.600000e+01   2.777701e-03                                          
+  161730     20.42         1   3.600000e+01   2.777701e-03                                          
+  171730     21.55         1   3.600000e+01   2.777701e-03                                          
+  181730     22.67         1   3.600000e+01   2.777701e-03                                          
+  191730     23.77         1   3.600000e+01   2.777701e-03                                          
+  201730     24.85         1   3.600000e+01   2.777701e-03                                          
+  211730     25.87         1   3.600000e+01   2.777701e-03                                          
+  221730     26.85         1   3.600000e+01   2.777701e-03                                          
+  231730     27.76         1   3.600000e+01   2.777701e-03                                          
+  241730     29.22         1   3.600000e+01   2.777701e-03                                          
+  251730     30.32         1   3.600000e+01   2.777701e-03                                          
+  261730     31.50         1   3.600000e+01   2.777701e-03                                          
+  271730     32.72         1   3.600000e+01   2.777701e-03                                          
+  281730     33.87         1   3.600000e+01   2.777701e-03                                          
+  291730     35.02         1   3.600000e+01   2.777701e-03                                          
+  301730     36.18         1   3.600000e+01   2.777701e-03                                          
+  311730     37.34         1   3.600000e+01   2.777701e-03                                          
+  321730     38.60         1   3.600000e+01   2.777701e-03                                          
+  331730     39.83         1   3.600000e+01   2.777701e-03                                          
+  341730     41.11         1   3.600000e+01   2.777701e-03                                          
+  351730     42.36         1   3.600000e+01   2.777701e-03                                          
+  361730     43.58         1   3.600000e+01   2.777701e-03                                          
+  371730     44.79         1   3.600000e+01   2.777701e-03                                          
+  381730     45.94         1   3.600000e+01   2.777701e-03                                          
+  391730     47.09         1   3.600000e+01   2.777701e-03                                          
+  401730     48.22         1   3.600000e+01   2.777701e-03                                          
+  411730     49.28         1   3.600000e+01   2.777701e-03                                          
+  421730     50.30         1   3.600000e+01   2.777701e-03                                          
+  431730     51.26         1   3.600000e+01   2.777701e-03                                          
+  441730     52.27         1   3.600000e+01   2.777701e-03                                          
+  451730     53.39         1   3.600000e+01   2.777701e-03                                          
+  461730     54.49         1   3.600000e+01   2.777701e-03                                          
+  471730     55.60         1   3.600000e+01   2.777701e-03                                          
+  481730     56.68         1   3.600000e+01   2.777701e-03                                          
+  491730     57.72         1   3.600000e+01   2.777701e-03                                          
+  501730     58.72         1   3.600000e+01   2.777701e-03                                          
+  511730     59.78         1   3.600000e+01   2.777701e-03                                          
+  521730     60.90         1   3.600000e+01   2.777701e-03                                          
+  531730     61.98         1   3.600000e+01   2.777701e-03                                          
+  541730     63.09         1   3.600000e+01   2.777701e-03                                          
+  551730     64.19         1   3.600000e+01   2.777701e-03                                          
+  561730     65.30         1   3.600000e+01   2.777701e-03                                          
+  571730     66.33         1   3.600000e+01   2.777701e-03                                          
+  581730     67.33         1   3.600000e+01   2.777701e-03                                          
+  591730     68.28         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+  601730     69.37         1   3.600000e+01   2.777701e-03                                          
+  611730     70.50         1   3.600000e+01   2.777701e-03                                          
+  621730     71.61         1   3.600000e+01   2.777701e-03                                          
+  631730     72.74         1   3.600000e+01   2.777701e-03                                          
+  641730     73.85         1   3.600000e+01   2.777701e-03                                          
+  651730     74.92         1   3.600000e+01   2.777701e-03                                          
+  661730     75.93         1   3.600000e+01   2.777701e-03                                          
+  671730     76.90         1   3.600000e+01   2.777701e-03                                          
+  681730     77.88         1   3.600000e+01   2.777701e-03                                          
+  691730     79.09         1   3.600000e+01   2.777701e-03                                          
+  701730     80.27         1   3.600000e+01   2.777701e-03                                          
+  711730     81.47         1   3.600000e+01   2.777701e-03                                          
+  721730     82.71         1   3.600000e+01   2.777701e-03                                          
+  731730     83.89         1   3.600000e+01   2.777701e-03                                          
+  741730     85.11         1   3.600000e+01   2.777701e-03                                          
+  751730     86.35         1   3.600000e+01   2.777701e-03                                          
+  761730     87.63         1   3.600000e+01   2.777701e-03                                          
+  771730     88.93         1   3.600000e+01   2.777701e-03                                          
+  781730     90.21         1   3.600000e+01   2.777701e-03                                          
+  791730     91.49         1   3.600000e+01   2.777701e-03                                          
+  801730     92.74         1   3.600000e+01   2.777701e-03                                          
+  811730     94.01         1   3.600000e+01   2.777701e-03                                          
+  821730     95.37         1   3.600000e+01   2.777701e-03                                          
+  831730     96.60         1   3.600000e+01   2.777701e-03                                          
+  841730     97.83         1   3.600000e+01   2.777701e-03                                          
+  851730     99.05         1   3.600000e+01   2.777701e-03                                          
+  861730    100.23         1   3.600000e+01   2.777701e-03                                          
+  871730    101.38         1   3.600000e+01   2.777701e-03                                          
+  881730    102.49         1   3.600000e+01   2.777701e-03                                          
+  891730    103.54         1   3.600000e+01   2.777701e-03                                          
+  901730    104.61         1   3.600000e+01   2.777701e-03                                          
+  911730    105.59         1   3.600000e+01   2.777701e-03                                          
+  921730    106.51         1   3.600000e+01   2.777701e-03                                          
+  931730    107.68         1   3.600000e+01   2.777701e-03                                          
+  941730    108.80         1   3.600000e+01   2.777701e-03                                          
+  951730    109.91         1   3.600000e+01   2.777701e-03                                          
+  961730    111.00         1   3.600000e+01   2.777701e-03                                          
+  971730    112.05         1   3.600000e+01   2.777701e-03                                          
+  981730    113.06         1   3.600000e+01   2.777701e-03                                          
+  991730    114.02         1   3.600000e+01   2.777701e-03                                          
+ 1001730    115.21         1   3.600000e+01   2.777701e-03                                          
+ 1011730    116.44         1   3.600000e+01   2.777701e-03                                          
+ 1021730    117.65         1   3.600000e+01   2.777701e-03                                          
+ 1031730    118.85         1   3.600000e+01   2.777701e-03                                          
+ 1041730    120.08         1   3.600000e+01   2.777701e-03                                          
+ 1051730    121.31         1   3.600000e+01   2.777701e-03                                          
+ 1061730    122.77         1   3.600000e+01   2.777701e-03                                          
+ 1071730    123.94         1   3.600000e+01   2.777701e-03                                          
+ 1081730    125.13         1   3.600000e+01   2.777701e-03                                          
+ 1091730    126.28         1   3.600000e+01   2.777701e-03                                          
+ 1101730    127.42         1   3.600000e+01   2.777701e-03                                          
+ 1111730    128.52         1   3.600000e+01   2.777701e-03                                          
+ 1121730    129.57         1   3.600000e+01   2.777701e-03                                          
+ 1131730    130.58         1   3.600000e+01   2.777701e-03                                          
+ 1141730    131.54         1   3.600000e+01   2.777701e-03                                          
+ 1151730    132.60         1   3.600000e+01   2.777701e-03                                          
+ 1161730    133.75         1   3.600000e+01   2.777701e-03                                          
+ 1171730    134.93         1   3.600000e+01   2.777701e-03                                          
+ 1181730    136.13         1   3.600000e+01   2.777701e-03                                          
+ 1191730    137.31         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 1201730    138.74         1   3.600000e+01   2.777701e-03                                          
+ 1211730    139.92         1   3.600000e+01   2.777701e-03                                          
+ 1221730    141.13         1   3.600000e+01   2.777701e-03                                          
+ 1231730    142.29         1   3.600000e+01   2.777701e-03                                          
+ 1241730    143.51         1   3.600000e+01   2.777701e-03                                          
+ 1251730    144.67         1   3.600000e+01   2.777701e-03                                          
+ 1261730    145.86         1   3.600000e+01   2.777701e-03                                          
+ 1271730    147.05         1   3.600000e+01   2.777701e-03                                          
+ 1281730    148.27         1   3.600000e+01   2.777701e-03                                          
+ 1291730    149.56         1   3.600000e+01   2.777701e-03                                          
+ 1301730    150.80         1   3.600000e+01   2.777701e-03                                          
+ 1311730    152.04         1   3.600000e+01   2.777701e-03                                          
+ 1321730    153.30         1   3.600000e+01   2.777701e-03                                          
+ 1331730    154.49         1   3.600000e+01   2.777701e-03                                          
+ 1341730    155.74         1   3.600000e+01   2.777701e-03                                          
+ 1351730    156.93         1   3.600000e+01   2.777701e-03                                          
+ 1361730    158.09         1   3.600000e+01   2.777701e-03                                          
+ 1371730    159.25         1   3.600000e+01   2.777701e-03                                          
+ 1381730    160.36         1   3.600000e+01   2.777701e-03                                          
+ 1391730    161.47         1   3.600000e+01   2.777701e-03                                          
+ 1401730    162.55         1   3.600000e+01   2.777701e-03                                          
+ 1411730    163.59         1   3.600000e+01   2.777701e-03                                          
+ 1421730    164.60         1   3.600000e+01   2.777701e-03                                          
+ 1431730    165.59         1   3.600000e+01   2.777701e-03                                          
+ 1441730    166.48         1   3.600000e+01   2.777701e-03                                          
+ 1451730    167.72         1   3.600000e+01   2.777701e-03                                          
+ 1461730    168.87         1   3.600000e+01   2.777701e-03                                          
+ 1471730    170.01         1   3.600000e+01   2.777701e-03                                          
+ 1481730    171.19         1   3.600000e+01   2.777701e-03                                          
+ 1491730    172.36         1   3.600000e+01   2.777701e-03                                          
+ 1501730    173.54         1   3.600000e+01   2.777701e-03                                          
+ 1511730    174.71         1   3.600000e+01   2.777701e-03                                          
+ 1521730    175.91         1   3.600000e+01   2.777701e-03                                          
+ 1531730    177.19         1   3.600000e+01   2.777701e-03                                          
+ 1541730    178.43         1   3.600000e+01   2.777701e-03                                          
+ 1551730    179.72         1   3.600000e+01   2.777701e-03                                          
+ 1561730    181.04         1   3.600000e+01   2.777701e-03                                          
+ 1571730    182.32         1   3.600000e+01   2.777701e-03                                          
+ 1581730    183.62         1   3.600000e+01   2.777701e-03                                          
+ 1591730    184.93         1   3.600000e+01   2.777701e-03                                          
+ 1601730    186.20         1   3.600000e+01   2.777701e-03                                          
+ 1611730    187.48         1   3.600000e+01   2.777701e-03                                          
+ 1621730    188.83         1   3.600000e+01   2.777701e-03                                          
+ 1631730    190.14         1   3.600000e+01   2.777701e-03                                          
+ 1641730    191.42         1   3.600000e+01   2.777701e-03                                          
+ 1651730    192.73         1   3.600000e+01   2.777701e-03                                          
+ 1661730    194.01         1   3.600000e+01   2.777701e-03                                          
+ 1671730    195.28         1   3.600000e+01   2.777701e-03                                          
+ 1681730    196.52         1   3.600000e+01   2.777701e-03                                          
+ 1691730    197.78         1   3.600000e+01   2.777701e-03                                          
+ 1701730    198.98         1   3.600000e+01   2.777701e-03                                          
+ 1711730    200.19         1   3.600000e+01   2.777701e-03                                          
+ 1721730    201.43         1   3.600000e+01   2.777701e-03                                          
+ 1731730    202.59         1   3.600000e+01   2.777701e-03                                          
+ 1741730    203.79         1   3.600000e+01   2.777701e-03                                          
+ 1751730    204.96         1   3.600000e+01   2.777701e-03                                          
+ 1761730    206.11         1   3.600000e+01   2.777701e-03                                          
+ 1771730    207.21         1   3.600000e+01   2.777701e-03                                          
+ 1781730    208.30         1   3.600000e+01   2.777701e-03                                          
+ 1791730    209.36         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 1801730    210.37         1   3.600000e+01   2.777701e-03                                          
+ 1811730    211.33         1   3.600000e+01   2.777701e-03                                          
+ 1821730    212.22         1   3.600000e+01   2.777701e-03                                          
+ 1831730    213.42         1   3.600000e+01   2.777701e-03                                          
+ 1841730    214.58         1   3.600000e+01   2.777701e-03                                          
+ 1851730    215.79         1   3.600000e+01   2.777701e-03                                          
+ 1861730    216.97         1   3.600000e+01   2.777701e-03                                          
+ 1871730    218.21         1   3.600000e+01   2.777701e-03                                          
+ 1881730    219.63         1   3.600000e+01   2.777701e-03                                          
+ 1891730    220.81         1   3.600000e+01   2.777701e-03                                          
+ 1901730    221.94         1   3.600000e+01   2.777701e-03                                          
+ 1911730    223.08         1   3.600000e+01   2.777701e-03                                          
+ 1921730    224.24         1   3.600000e+01   2.777701e-03                                          
+ 1931730    225.45         1   3.600000e+01   2.777701e-03                                          
+ 1941730    226.64         1   3.600000e+01   2.777701e-03                                          
+ 1951730    227.81         1   3.600000e+01   2.777701e-03                                          
+ 1961730    228.96         1   3.600000e+01   2.777701e-03                                          
+ 1971730    230.06         1   3.600000e+01   2.777701e-03                                          
+ 1981730    231.15         1   3.600000e+01   2.777701e-03                                          
+ 1991730    232.22         1   3.600000e+01   2.777701e-03                                          
+ 2001730    233.24         1   3.600000e+01   2.777701e-03                                          
+ 2011730    234.22         1   3.600000e+01   2.777701e-03                                          
+ 2021730    235.19         1   3.600000e+01   2.777701e-03                                          
+ 2031730    236.27         1   3.600000e+01   2.777701e-03                                          
+ 2041730    237.43         1   3.600000e+01   2.777701e-03                                          
+ 2051730    238.57         1   3.600000e+01   2.777701e-03                                          
+ 2061730    239.74         1   3.600000e+01   2.777701e-03                                          
+ 2071730    240.94         1   3.600000e+01   2.777701e-03                                          
+ 2081730    242.13         1   3.600000e+01   2.777701e-03                                          
+ 2091730    243.33         1   3.600000e+01   2.777701e-03                                          
+ 2101730    244.53         1   3.600000e+01   2.777701e-03                                          
+ 2111730    245.74         1   3.600000e+01   2.777701e-03                                          
+ 2121730    246.89         1   3.600000e+01   2.777701e-03                                          
+ 2131730    248.04         1   3.600000e+01   2.777701e-03                                          
+ 2141730    249.16         1   3.600000e+01   2.777701e-03                                          
+ 2151730    250.25         1   3.600000e+01   2.777701e-03                                          
+ 2161730    251.33         1   3.600000e+01   2.777701e-03                                          
+ 2171730    252.40         1   3.600000e+01   2.777701e-03                                          
+ 2181730    253.43         1   3.600000e+01   2.777701e-03                                          
+ 2191730    254.43         1   3.600000e+01   2.777701e-03                                          
+ 2201730    255.37         1   3.600000e+01   2.777701e-03                                          
+ 2211730    256.33         1   3.600000e+01   2.777701e-03                                          
+ 2221730    257.49         1   3.600000e+01   2.777701e-03                                          
+ 2231730    258.63         1   3.600000e+01   2.777701e-03                                          
+ 2241730    259.82         1   3.600000e+01   2.777701e-03                                          
+ 2251730    261.01         1   3.600000e+01   2.777701e-03                                          
+ 2261730    262.24         1   3.600000e+01   2.777701e-03                                          
+ 2271730    263.47         1   3.600000e+01   2.777701e-03                                          
+ 2281730    264.67         1   3.600000e+01   2.777701e-03                                          
+ 2291730    266.17         1   3.600000e+01   2.777701e-03                                          
+ 2301730    267.30         1   3.600000e+01   2.777701e-03                                          
+ 2311730    268.44         1   3.600000e+01   2.777701e-03                                          
+ 2321730    269.55         1   3.600000e+01   2.777701e-03                                          
+ 2331730    270.64         1   3.600000e+01   2.777701e-03                                          
+ 2341730    271.77         1   3.600000e+01   2.777701e-03                                          
+ 2351730    272.89         1   3.600000e+01   2.777701e-03                                          
+ 2361730    274.01         1   3.600000e+01   2.777701e-03                                          
+ 2371730    275.14         1   3.600000e+01   2.777701e-03                                          
+ 2381730    276.19         1   3.600000e+01   2.777701e-03                                          
+ 2391730    277.24         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 2401730    278.26         1   3.600000e+01   2.777701e-03                                          
+ 2411730    279.22         1   3.600000e+01   2.777701e-03                                          
+ 2421730    280.34         1   3.600000e+01   2.777701e-03                                          
+ 2431730    281.48         1   3.600000e+01   2.777701e-03                                          
+ 2441730    282.75         1   3.600000e+01   2.777701e-03                                          
+ 2451730    283.92         1   3.600000e+01   2.777701e-03                                          
+ 2461730    285.05         1   3.600000e+01   2.777701e-03                                          
+ 2471730    286.19         1   3.600000e+01   2.777701e-03                                          
+ 2481730    287.30         1   3.600000e+01   2.777701e-03                                          
+ 2491730    288.39         1   3.600000e+01   2.777701e-03                                          
+ 2501730    289.45         1   3.600000e+01   2.777701e-03                                          
+ 2511730    290.47         1   3.600000e+01   2.777701e-03                                          
+ 2521730    291.51         1   3.600000e+01   2.777701e-03                                          
+ 2531730    292.41         1   3.600000e+01   2.777701e-03                                          
+ 2541730    293.57         1   3.600000e+01   2.777701e-03                                          
+ 2551730    294.78         1   3.600000e+01   2.777701e-03                                          
+ 2561730    296.03         1   3.600000e+01   2.777701e-03                                          
+ 2571730    297.30         1   3.600000e+01   2.777701e-03                                          
+ 2581730    298.56         1   3.600000e+01   2.777701e-03                                          
+ 2591730    299.87         1   3.600000e+01   2.777701e-03                                          
+ 2601730    301.22         1   3.600000e+01   2.777701e-03                                          
+ 2611730    302.87         1   3.600000e+01   2.777701e-03                                          
+ 2621730    304.18         1   3.600000e+01   2.777701e-03                                          
+ 2631730    305.35         1   3.600000e+01   2.777701e-03                                          
+ 2641730    306.58         1   3.600000e+01   2.777701e-03                                          
+ 2651730    307.78         1   3.600000e+01   2.777701e-03                                          
+ 2661730    308.93         1   3.600000e+01   2.777701e-03                                          
+ 2671730    310.02         1   3.600000e+01   2.777701e-03                                          
+ 2681730    310.98         1   3.600000e+01   2.777701e-03                                          
+ 2691730    311.95         1   3.600000e+01   2.777701e-03                                          
+ 2701730    313.05         1   3.600000e+01   2.777701e-03                                          
+ 2711730    314.18         1   3.600000e+01   2.777701e-03                                          
+ 2721730    315.29         1   3.600000e+01   2.777701e-03                                          
+ 2731730    316.37         1   3.600000e+01   2.777701e-03                                          
+ 2741730    317.45         1   3.600000e+01   2.777701e-03                                          
+ 2751730    318.52         1   3.600000e+01   2.777701e-03                                          
+ 2761730    319.57         1   3.600000e+01   2.777701e-03                                          
+ 2771730    320.58         1   3.600000e+01   2.777701e-03                                          
+ 2781730    321.55         1   3.600000e+01   2.777701e-03                                          
+ 2791730    322.51         1   3.600000e+01   2.777701e-03                                          
+ 2801730    323.80         1   3.600000e+01   2.777701e-03                                          
+ 2811730    325.31         1   3.600000e+01   2.777701e-03                                          
+ 2821730    327.22         1   3.600000e+01   2.777701e-03                                          
+ 2831730    328.66         1   3.600000e+01   2.777701e-03                                          
+ 2841730    330.10         1   3.600000e+01   2.777701e-03                                          
+ 2851730    331.63         1   3.600000e+01   2.777701e-03                                          
+ 2861730    333.44         1   3.600000e+01   2.777701e-03                                          
+ 2871730    334.82         1   3.600000e+01   2.777701e-03                                          
+ 2881730    336.17         1   3.600000e+01   2.777701e-03                                          
+ 2891730    337.47         1   3.600000e+01   2.777701e-03                                          
+ 2901730    338.75         1   3.600000e+01   2.777701e-03                                          
+ 2911730    340.01         1   3.600000e+01   2.777701e-03                                          
+ 2921730    341.25         1   3.600000e+01   2.777701e-03                                          
+ 2931730    342.56         1   3.600000e+01   2.777701e-03                                          
+ 2941730    343.85         1   3.600000e+01   2.777701e-03                                          
+ 2951730    345.11         1   3.600000e+01   2.777701e-03                                          
+ 2961730    346.38         1   3.600000e+01   2.777701e-03                                          
+ 2971730    347.58         1   3.600000e+01   2.777701e-03                                          
+ 2981730    348.78         1   3.600000e+01   2.777701e-03                                          
+ 2991730    349.85         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 3001730    350.85         1   3.600000e+01   2.777701e-03                                          
+ 3011730    352.16         1   3.600000e+01   2.777701e-03                                          
+ 3021730    353.38         1   3.600000e+01   2.777701e-03                                          
+ 3031730    354.56         1   3.600000e+01   2.777701e-03                                          
+ 3041730    355.76         1   3.600000e+01   2.777701e-03                                          
+ 3051730    356.94         1   3.600000e+01   2.777701e-03                                          
+ 3061730    358.16         1   3.600000e+01   2.777701e-03                                          
+ 3071730    359.40         1   3.600000e+01   2.777701e-03                                          
+ 3081730    360.67         1   3.600000e+01   2.777701e-03                                          
+ 3091730    361.88         1   3.600000e+01   2.777701e-03                                          
+ 3101730    363.13         1   3.600000e+01   2.777701e-03                                          
+ 3111730    364.38         1   3.600000e+01   2.777701e-03                                          
+ 3121730    365.56         1   3.600000e+01   2.777701e-03                                          
+ 3131730    366.74         1   3.600000e+01   2.777701e-03                                          
+ 3141730    367.91         1   3.600000e+01   2.777701e-03                                          
+ 3151730    369.04         1   3.600000e+01   2.777701e-03                                          
+ 3161730    370.31         1   3.600000e+01   2.777701e-03                                          
+ 3171730    371.49         1   3.600000e+01   2.777701e-03                                          
+ 3181730    372.57         1   3.600000e+01   2.777701e-03                                          
+ 3191730    373.53         1   3.600000e+01   2.777701e-03                                          
+ 3201730    374.64         1   3.600000e+01   2.777701e-03                                          
+ 3211730    375.88         1   3.600000e+01   2.777701e-03                                          
+ 3221730    377.19         1   3.600000e+01   2.777701e-03                                          
+ 3231730    378.53         1   3.600000e+01   2.777701e-03                                          
+ 3241730    379.87         1   3.600000e+01   2.777701e-03                                          
+ 3251730    381.12         1   3.600000e+01   2.777701e-03                                          
+ 3261730    382.38         1   3.600000e+01   2.777701e-03                                          
+ 3271730    383.90         1   3.600000e+01   2.777701e-03                                          
+ 3281730    385.09         1   3.600000e+01   2.777701e-03                                          
+ 3291730    386.22         1   3.600000e+01   2.777701e-03                                          
+ 3301730    387.39         1   3.600000e+01   2.777701e-03                                          
+ 3311730    388.57         1   3.600000e+01   2.777701e-03                                          
+ 3321730    389.73         1   3.600000e+01   2.777701e-03                                          
+ 3331730    390.87         1   3.600000e+01   2.777701e-03                                          
+ 3341730    392.00         1   3.600000e+01   2.777701e-03                                          
+ 3351730    393.03         1   3.600000e+01   2.777701e-03                                          
+ 3361730    394.03         1   3.600000e+01   2.777701e-03                                          
+ 3371730    394.95         1   3.600000e+01   2.777701e-03                                          
+ 3381730    396.09         1   3.600000e+01   2.777701e-03                                          
+ 3391730    397.20         1   3.600000e+01   2.777701e-03                                          
+ 3401730    398.34         1   3.600000e+01   2.777701e-03                                          
+ 3411730    399.45         1   3.600000e+01   2.777701e-03                                          
+ 3421730    400.60         1   3.600000e+01   2.777701e-03                                          
+ 3431730    401.71         1   3.600000e+01   2.777701e-03                                          
+ 3441730    402.79         1   3.600000e+01   2.777701e-03                                          
+ 3451730    403.86         1   3.600000e+01   2.777701e-03                                          
+ 3461730    404.91         1   3.600000e+01   2.777701e-03                                          
+ 3471730    405.96         1   3.600000e+01   2.777701e-03                                          
+ 3481730    406.91         1   3.600000e+01   2.777701e-03                                          
+ 3491730    407.79         1   3.600000e+01   2.777701e-03                                          
+ 3501730    409.05         1   3.600000e+01   2.777701e-03                                          
+ 3511730    410.30         1   3.600000e+01   2.777701e-03                                          
+ 3521730    411.55         1   3.600000e+01   2.777701e-03                                          
+ 3531730    413.09         1   3.600000e+01   2.777701e-03                                          
+ 3541730    414.36         1   3.600000e+01   2.777701e-03                                          
+ 3551730    415.69         1   3.600000e+01   2.777701e-03                                          
+ 3561730    416.94         1   3.600000e+01   2.777701e-03                                          
+ 3571730    418.20         1   3.600000e+01   2.777701e-03                                          
+ 3581730    419.41         1   3.600000e+01   2.777701e-03                                          
+ 3591730    420.62         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 3601730    421.82         1   3.600000e+01   2.777701e-03                                          
+ 3611730    423.09         1   3.600000e+01   2.777701e-03                                          
+ 3621730    424.39         1   3.600000e+01   2.777701e-03                                          
+ 3631730    425.67         1   3.600000e+01   2.777701e-03                                          
+ 3641730    426.92         1   3.600000e+01   2.777701e-03                                          
+ 3651730    428.17         1   3.600000e+01   2.777701e-03                                          
+ 3661730    429.38         1   3.600000e+01   2.777701e-03                                          
+ 3671730    430.57         1   3.600000e+01   2.777701e-03                                          
+ 3681730    431.80         1   3.600000e+01   2.777701e-03                                          
+ 3691730    433.01         1   3.600000e+01   2.777701e-03                                          
+ 3701730    434.08         1   3.600000e+01   2.777701e-03                                          
+ 3711730    435.11         1   3.600000e+01   2.777701e-03                                          
+ 3721730    436.07         1   3.600000e+01   2.777701e-03                                          
+ 3731730    437.10         1   3.600000e+01   2.777701e-03                                          
+ 3741730    438.24         1   3.600000e+01   2.777701e-03                                          
+ 3751730    439.40         1   3.600000e+01   2.777701e-03                                          
+ 3761730    440.55         1   3.600000e+01   2.777701e-03                                          
+ 3771730    441.73         1   3.600000e+01   2.777701e-03                                          
+ 3781730    442.89         1   3.600000e+01   2.777701e-03                                          
+ 3791730    444.06         1   3.600000e+01   2.777701e-03                                          
+ 3801730    445.30         1   3.600000e+01   2.777701e-03                                          
+ 3811730    446.58         1   3.600000e+01   2.777701e-03                                          
+ 3821730    447.83         1   3.600000e+01   2.777701e-03                                          
+ 3831730    449.06         1   3.600000e+01   2.777701e-03                                          
+ 3841730    450.29         1   3.600000e+01   2.777701e-03                                          
+ 3851730    451.49         1   3.600000e+01   2.777701e-03                                          
+ 3861730    452.67         1   3.600000e+01   2.777701e-03                                          
+ 3871730    453.82         1   3.600000e+01   2.777701e-03                                          
+ 3881730    454.96         1   3.600000e+01   2.777701e-03                                          
+ 3891730    456.06         1   3.600000e+01   2.777701e-03                                          
+ 3901730    457.12         1   3.600000e+01   2.777701e-03                                          
+ 3911730    458.15         1   3.600000e+01   2.777701e-03                                          
+ 3921730    459.11         1   3.600000e+01   2.777701e-03                                          
+ 3931730    460.02         1   3.600000e+01   2.777701e-03                                          
+ 3941730    461.10         1   3.600000e+01   2.777701e-03                                          
+ 3951730    462.35         1   3.600000e+01   2.777701e-03                                          
+ 3961730    463.60         1   3.600000e+01   2.777701e-03                                          
+ 3971730    464.87         1   3.600000e+01   2.777701e-03                                          
+ 3981730    466.16         1   3.600000e+01   2.777701e-03                                          
+ 3991730    467.70         1   3.600000e+01   2.777701e-03                                          
+ 4001730    468.92         1   3.600000e+01   2.777701e-03                                          
+ 4011730    470.11         1   3.600000e+01   2.777701e-03                                          
+ 4021730    471.28         1   3.600000e+01   2.777701e-03                                          
+ 4031730    472.44         1   3.600000e+01   2.777701e-03                                          
+ 4041730    473.59         1   3.600000e+01   2.777701e-03                                          
+ 4051730    474.79         1   3.600000e+01   2.777701e-03                                          
+ 4061730    475.94         1   3.600000e+01   2.777701e-03                                          
+ 4071730    477.07         1   3.600000e+01   2.777701e-03                                          
+ 4081730    478.14         1   3.600000e+01   2.777701e-03                                          
+ 4091730    479.18         1   3.600000e+01   2.777701e-03                                          
+ 4101730    480.23         1   3.600000e+01   2.777701e-03                                          
+ 4111730    481.36         1   3.600000e+01   2.777701e-03                                          
+ 4121730    482.51         1   3.600000e+01   2.777701e-03                                          
+ 4131730    483.67         1   3.600000e+01   2.777701e-03                                          
+ 4141730    484.82         1   3.600000e+01   2.777701e-03                                          
+ 4151730    485.94         1   3.600000e+01   2.777701e-03                                          
+ 4161730    487.04         1   3.600000e+01   2.777701e-03                                          
+ 4171730    488.12         1   3.600000e+01   2.777701e-03                                          
+ 4181730    489.18         1   3.600000e+01   2.777701e-03                                          
+ 4191730    490.16         1   3.600000e+01   2.777701e-03                                          
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+ 4201730    491.09         1   3.600000e+01   2.777701e-03                                          
+ 4211730    492.24         1   3.600000e+01   2.777701e-03                                          
+ 4221730    493.41         1   3.600000e+01   2.777701e-03                                          
+ 4231730    494.55         1   3.600000e+01   2.777701e-03                                          
+ 4241730    495.70         1   3.600000e+01   2.777701e-03                                          
+ 4251730    496.86         1   3.600000e+01   2.777701e-03                                          
+ 4261730    497.99         1   3.600000e+01   2.777701e-03                                          
+ 4271730    499.10         1   3.600000e+01   2.777701e-03                                          
+ 4281730    500.18         1   3.600000e+01   2.777701e-03                                          
+ 4291730    501.25         1   3.600000e+01   2.777701e-03                                          
+ 4301730    502.29         1   3.600000e+01   2.777701e-03                                          
+ 4311730    503.28         1   3.600000e+01   2.777701e-03                                          
+ 4320952    504.11         1   3.600000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 36, [k, d, n] = [5, 17, 36], x = [ 1 1 1 2 1 1 2 1 0 1 1 1 2 1 1 1 1 0 1 2 2 1 1 1 1 2 2 1 1 1 1]
+
+
+LP:                Optimal objective value is 34.875000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    3187      0.48         1   3.700000e+01   2.702630e-03                                          
+    5733      0.81         1   3.700000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 37, [k, d, n] = [5, 18, 37], x = [ 1 0 1 1 2 1 1 2 2 1 1 2 1 1 1 1 2 2 1 0 1 1 1 2 1 1 2 1 1 1 1]
+
+
+LP:                Optimal objective value is 36.812500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    9727      1.42         1   3.900000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 39, [k, d, n] = [5, 19, 39], x = [ 1 1 2 1 2 0 2 1 1 1 1 1 1 1 2 1 2 2 2 1 2 1 1 2 0 1 1 1 2 1 1]
+
+
+LP:                Optimal objective value is 38.750000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      42      0.01         1   4.000000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 40, [k, d, n] = [5, 20, 40], x = [ 0 2 2 1 2 1 1 2 0 1 1 0 2 0 2 1 2 2 2 0 2 2 1 0 1 2 2 2 2 2 0]
+
+
+LP:                Optimal objective value is 40.687500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+   10000      1.47         0              -              -                                          
+   20000      3.09         0              -              -                                          
+   30000      4.68         0              -              -                                          
+   37643      5.82         1   4.300000e+01   2.325527e-03                                          
+   41003      6.36         1   4.300000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 43, [k, d, n] = [5, 21, 43], x = [ 2 2 1 2 1 1 2 1 1 0 1 2 1 2.000000e+00 1 2.000000e+00 2 1.000000e+00 1 2 2 1.000000e+00 1.000000e+00 0 2 2 2 1.000000e+00 2 1 1]
+
+
+LP:                Optimal objective value is 42.625000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     748      0.13         1   4.400000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 44, [k, d, n] = [5, 22, 44], x = [ 0 2 2 1 2 1 1 2 1 1 1 1 2 1 2 0 2 2 2 1 2 2 0 1 1 2 2 2 2 2 1]
+
+
+LP:                Optimal objective value is 44.562500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    3063      0.47         1   4.600000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 46, [k, d, n] = [5, 23, 46], x = [ 1 2 2 1 1 0 2 2 2 2 2 1 1 2 2 1 2 1 1 2 1 1 1 1 2 1 2 1 2 2 2]
+
+
+LP:                Optimal objective value is 46.500000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+       1      0.01         1   4.700000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 47, [k, d, n] = [5, 24, 47], x = [ 2 2 1 2 1 1 2 1 1 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1]
+
+
+LP:                Optimal objective value is 48.437500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+   10000      1.52         0              -              -                                          
+   20000      3.16         0              -              -                                          
+   30000      4.70         0              -              -                                          
+   40000      6.24         0              -              -                                          
+   50000      7.78         0              -              -                                          
+   60000      9.28         0              -              -                                          
+   70000     10.78         0              -              -                                          
+   75044     11.63         1   5.100000e+01   1.960746e-03                                          
+   85044     13.25         1   5.100000e+01   1.960746e-03                                          
+   95044     14.40         1   5.100000e+01   1.960746e-03                                          
+  105044     15.60         1   5.100000e+01   1.960746e-03                                          
+  115044     16.85         1   5.100000e+01   1.960746e-03                                          
+  125044     18.03         1   5.100000e+01   1.960746e-03                                          
+  135044     19.21         1   5.100000e+01   1.960746e-03                                          
+  145044     20.39         1   5.100000e+01   1.960746e-03                                          
+  155044     21.66         1   5.100000e+01   1.960746e-03                                          
+  165044     22.93         1   5.100000e+01   1.960746e-03                                          
+  175044     24.15         1   5.100000e+01   1.960746e-03                                          
+  185044     25.33         1   5.100000e+01   1.960746e-03                                          
+  195044     26.45         1   5.100000e+01   1.960746e-03                                          
+  197230     26.67         1   5.100000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 51, [k, d, n] = [5, 25, 51], x = [ 1 2 1 2 2 2 2 2 2 2 2 0 2 2 1 1 1 2 2 2 2 2 2 1 2 2 1 2 1 1 2]
+
+
+LP:                Optimal objective value is 50.375000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     463      0.08         1   5.200000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 52, [k, d, n] = [5, 26, 52], x = [ 2 2 1 2 2 2 1 2 2 0 1 1 2 2 2 2 2 2 1 2 2 2 2 1 2 2 1 1 2 2 2]
+
+
+LP:                Optimal objective value is 52.312500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+   10000      1.54         0              -              -                                          
+   11727      1.78         1   5.400000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 54, [k, d, n] = [5, 27, 54], x = [ 2 1 1 2 2 2 2 2 1 2 2 2 1 1 2 1 2 1 2 2 2 2 2 2 1 2 2 2 2 2 2]
+
+
+LP:                Optimal objective value is 54.250000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+      26      0.01         1   5.500000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 55, [k, d, n] = [5, 28, 55], x = [ 1 2 2 2 2 2 2 2 1 2 2 1 2 1 2 2 2 2 2 1 2 2 2 1 2 2 2 2 2 2 1]
+
+
+LP:                Optimal objective value is 56.187500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+    5212      0.81         1   5.800000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 58, [k, d, n] = [5, 29, 58], x = [ 2 2 2.000000e+00 2 2 1.000000e+00 2 2 2 2 2.000000e+00 2 2 2 1 2 2.000000e+00 2 2 2 2 2 2 2 2.000000e+00 2.000000e+00 1 2 2 1.000000e+00 2]
+
+
+LP:                Optimal objective value is 58.125000.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     218      0.04         1   5.900000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 59, [k, d, n] = [5, 30, 59], x = [ 1 2 2 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+
+
+LP:                Optimal objective value is 60.062500.                                            
+
+Branch and Bound:
+
+   nodes     total   num int        integer       relative                                          
+explored  time (s)  solution           fval        gap (%)                                         
+     472      0.08         1   6.100000e+01   0.000000e+00                                          
+
+Optimal solution found.
+
+Intlinprog stopped because the objective value is within a gap tolerance of the optimal value; options.TolGapAbs = 0 (the
+default value). The intcon variables are integer within tolerance, options.TolInteger = 1e-05 (the default value).
+
+Gries_bound = 61, [k, d, n] = [5, 31, 61], x = [ 2 2.000000e+00 2.000000e+00 2 2 2 2 2 2 2.000000e+00 1 2 2 2.000000e+00 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.000000e+00 2]
