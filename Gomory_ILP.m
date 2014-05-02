@@ -1,4 +1,4 @@
-function [x,val,status] = Gomory_ILP(f,A,b)
+function [x,val,status] = Gomory_ILP(f,A,b,d,k)
     
     
     % initialization
@@ -12,22 +12,35 @@ function [x,val,status] = Gomory_ILP(f,A,b)
     format rat;
     eps = 2^-24;
     
-    [m,n] = size(A);
-    model.A = A;
-    model.b = b;
-    model.c = f;
-    model.zeta = 0;
-    model.nonbasis = 1:n;
-    model.basis = n+1:n+m;
+%     [m,n] = size(A);
+%     model.A = A;
+%     model.b = b;
+%     model.c = f;
+%     model.zeta = 0;
+%     model.nonbasis = 1:n;
+%     model.basis = n+1:n+m;
+  
+    %initialization: the linear program solution
+    [N,N] = size(A);
+    model.A = 1/(2^(k-1))*(ones(N,N) - 2*(-A') );
+    model.b = d/2^(k-1)*ones(N,1);
+    model.c = 1/2^(k-1)*ones(N,1);
+    model.zeta = -(2^k - 1)*d/(2^(k-1));
+    model.basis = 1:N;
+    model.nonbasis = N+1:N+N;
+    x0 = model.b;
+    status0 = 1;
+    val0 = model.zeta;
     
+    p = N;
     old_x = [];
     old_v = [];
     iter = 0;    
     %maxIter = 1000;
+
     while 1
-        iter = iter + 1;        
-        [x0,val0,status0,model] = dual_simplex(model);
-        sf = [ '%d. x0 = [' repmat(' %.2f',1,n) '] val0=%.2f '];
+        iter = iter + 1;                       
+        sf = [ '%d. x0 = [' repmat(' %.2f',1,p) '] val0=%.2f '];
         str = sprintf(sf,iter,x0,val0);
         disp(str);
         if status0<=0 % no feasiable solution
@@ -42,11 +55,11 @@ function [x,val,status] = Gomory_ILP(f,A,b)
             val = val0;
             status = 1;
             break;
-        end
-        [~,t] = max(abs(x0(ind)-round(x0(ind))));
-        %t = 1;
+        end       
+        %[~,t] = max(abs(x0(ind)-round(x0(ind))));
+        t = 1;
         idx = find(model.basis == ind(t));
-        % pivot selection / in which row ?
+        % pivot selection cutting plane / in which row ?
         % add a new constraint
         Abar = model.A;
         [m,n] = size(Abar);
@@ -55,7 +68,8 @@ function [x,val,status] = Gomory_ILP(f,A,b)
         model.A = [model.A;Anew];
         model.b = [model.b;f0];
         model.basis = [model.basis,m+n+1];
-                
+        
+        [x0,val0,status0,model] = dual_simplex(model,p);   %%remove: get the result of linear programming when first running.
     end
     if status0 <=0 %|| iter > maxIter
         disp('no feasibale solution');
@@ -66,7 +80,7 @@ function [x,val,status] = Gomory_ILP(f,A,b)
     end
 end
 
-function [ x,val,status,model] = dual_simplex(model)
+function [ x,val,status,model] = dual_simplex(model,p)
 %primal problem:
 %   min         f'*x
 %   subject to  A*x <= b
@@ -141,7 +155,7 @@ function [ x,val,status,model] = dual_simplex(model)
         return;     
     end
     
-    x = xbar(1:n);
+    x = xbar(1:p);
     val = -zeta0;
     model.A = Abar;
     model.b = bbar;
@@ -151,3 +165,44 @@ function [ x,val,status,model] = dual_simplex(model)
     model.nonbasis = nonbasis;
     status = 1;
 end
+
+% %     iter = 0;
+% %     x0 = [zeros(n,1);b];
+% %     A =  [A,eye(m)];
+% %     B = [n+1:n+m]';
+% %     c = [-f;zeros(n,1)];
+% %     p = n;
+% %     n = n + m;
+%     while 0
+%         iter = iter + 1;
+%         [val0,x0,B,status0] = dual_simplex_bb(c,A,b,eps,x0,B);        
+%         if status0 == 2 % no feasiable solution
+%             x = old_x; 
+%             val = old_v; 
+%             status = status0;
+%             break;
+%         end
+%         if( x0-floor(x0+eps) < eps)
+%             x = x0(1:p);
+%             val = val0;
+%             status = 1;
+%             break;
+%         end
+%         N = setdiff([1:n],B);
+%         D = A(:,B) \ A(:,N);
+%         %set br_var = most fractional
+%         [~,br_var] = max(abs(x0-round(x0)));
+%         br_value = floor(x0(br_var)+eps);
+%         %get z= the gomery cutting plane and add the cut to the system
+%         z = D(br_var,:);
+%         A = [A zeros(m,1);zeros(1,n+1)];
+%         m = m+1;
+%         n = n+1;
+%         
+%         A(m,br_var) = 1;
+%         A(m,N) = floor(z);
+%         b = [b;br_value];
+%         c = [c;0];
+%         x0 = [x0;b(m)-sum(A(m,1:n-1))*x0];
+%         B = [B;n];
+%     end
