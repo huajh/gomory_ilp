@@ -1,6 +1,6 @@
 function [x,val,status] = branch_ILP(f,A,b,d,k)
     
-    
+    % branch and bound 
     % initialization
     % tableau
     %______________________________
