@@ -1,6 +1,6 @@
 function [x,val,status] = branch_ILP(f,A,b,d,k)
     
-    % branch and bound 
+    
     % initialization
     % tableau
     %______________________________
@@ -23,17 +23,25 @@ function [x,val,status] = branch_ILP(f,A,b,d,k)
     x0 = model.b;
     val0 = model.zeta;
     bound = inf;
-    [x,val,bound,status] = recursion_tree(x0,val0,model,bound);
+    [x,val,bound,status] = bb_tree(x0,val0,model,bound);
     val = - val;
 end
 
-function [xx,vval,bbound,status] = recursion_tree(x,val,model,bound)
-    
+
+function [xx,vval,bbound,status] = bb_tree(x,val,model,bound)
+% Branch and bound (BB or B&B) tree
+%
     format rat;
     eps = 2^-24;
-    [x0,val0,status0,model0] = dual_simplex(model);
-    if status0<=0 || -val0 > bound  
+    [x0,val0,status0,model0] = dual_simplex(model); 
+    % no optimal solution or optimal value can not be improved (\zeta^*
+    % should be a integer)
+     
+    if status0 <= 0 || -val0 > (bound-1+eps) 
         xx=x; vval=val; status=status0; bbound=bound;
+       % sf = [ '1 bound = %.2f val0=%.2f  x0 = [' repmat(' %.2f',1,length(x0)) ']'];
+       % str = sprintf(sf,bound,vval,xx);
+       % disp(str); 
         return;
     end
     
@@ -49,8 +57,8 @@ function [xx,vval,bbound,status] = recursion_tree(x,val,model,bound)
             vval=val;
             bbound=bound;
         end
-        sf = [ ' val0=%.2f  x0 = [' repmat(' %.2f',1,length(x0)) ']'];
-        str = sprintf(sf,val,xx);
+        sf = [ '2 val0=%.2f  x0 = [' repmat(' %.2f',1,length(x0)) ']'];
+        str = sprintf(sf,vval,xx);
         disp(str);        
         return
     end
@@ -69,8 +77,8 @@ function [xx,vval,bbound,status] = recursion_tree(x,val,model,bound)
     model1.A(end,:) = -model1.A(tt,:);
     model1.b = [model0.b;floor(priovt_x) - model0.b(tt)];
     model1.basis = [model1.basis,m+n+1];
-    
-    [x1,val1,bound1,status1] = recursion_tree(x0,val0,model1,bound);
+   % disp('left');
+    [x1,val1,bound1,status1] = bb_tree(x0,val0,model1,bound);
     status=status1;
     if status1 > 0 && bound1 < bound % if the solution was successfull and gives a better bound
        xx=x1;
@@ -90,8 +98,8 @@ function [xx,vval,bbound,status] = recursion_tree(x,val,model,bound)
     model2.A(end,:) = model2.A(tt,:);
     model2.b = [model0.b;-ceil(priovt_x) + model0.b(tt)];
     model2.basis = [model2.basis,m+n+1];
-    
-    [x2,val2,bound2,status2] = recursion_tree(x0,val0,model2,bound);
+    %disp('right');
+    [x2,val2,bound2,status2] = bb_tree(x0,val0,model2,bound);
     
     if status2 >0 && bound2<bound % if the solution was successfull and gives a better bound
         status = status2;
