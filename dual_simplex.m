@@ -4,6 +4,12 @@ function [ x,val,status,model] = dual_simplex(model)
 %   subject to  A*x <= b
 %               0 <= x
 %
+%  @author: Junhao Hua
+%  @email:  huajh7@gmail.com
+%  
+%  create time: 2014/4/27
+%
+
     x = [];  val = []; status = 1;
     eps = 2^-24;
     if ~all(model.c + eps >= 0 )

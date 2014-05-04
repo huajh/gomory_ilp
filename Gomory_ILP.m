@@ -1,5 +1,10 @@
-function [x,val,status] = Gomory_ILP(f,A,b,d,k)
-    
+function [x,val,status,Count] = Gomory_ILP(f,A,b,d,k)
+%
+%  @author: Junhao Hua
+%  @email:  huajh7@gmail.com
+%  
+%  create time: 2014/4/27
+%    
     
     % initialization
     % tableau
@@ -10,15 +15,7 @@ function [x,val,status] = Gomory_ILP(f,A,b,d,k)
     
     % Use exact rational arithmetic 
     format rat;
-    eps = 2^-24;
-    
-%     [m,n] = size(A);
-%     model.A = A;  
-%     model.b = b;
-%     model.c = f;
-%     model.zeta = 0;
-%     model.nonbasis = 1:n;
-%     model.basis = n+1:n+m;
+    eps = 2^-24;    
   
     %initialization: the linear program solution
     [N,N] = size(A);
@@ -32,17 +29,17 @@ function [x,val,status] = Gomory_ILP(f,A,b,d,k)
     x0 = model.b;
     status0 = 1;
     val0 = model.zeta;
-        
+    Count.iter = 0;
     old_x = [];
     old_v = [];
     iter = 0;    
-    %maxIter = 1000;
+    maxIter = 1000;
 
-    while 1
+    while iter < maxIter
         iter = iter + 1;                       
         sf = [ '%d. x0 = [' repmat(' %.2f',1,N) '] val0=%.2f '];
         str = sprintf(sf,iter,x0,val0);
-        disp(str);
+      %  disp(str);
         if status0<=0 % no feasiable solution
             x = old_x; 
             val = old_v; 
@@ -73,7 +70,8 @@ function [x,val,status] = Gomory_ILP(f,A,b,d,k)
         [x0,val0,status0,model] = dual_simplex(model);   %%remove: get the result of linear programming when first running.
         val0 = -val0;
     end
-    if status0 <=0 %|| iter > maxIter
+    Count.iter = iter;
+    if status0 <=0 || iter >= maxIter
         disp('no feasibale solution');
         x = old_x; 
         val = old_v; 

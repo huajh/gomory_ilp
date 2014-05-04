@@ -1,13 +1,24 @@
 function [x,val,status,Count] = branch_ILP(f,A,b,d,k,Maxrep)
     
-    
+%
+%  @author: Junhao Hua
+%  @email:  huajh7@gmail.com
+%  
+%  create time: 2014/4/27
+%  last update: 2014/5/4
+%    
     % initialization
     % tableau
     %______________________________
     %   basis | Abar  | bbar    
     %         | cbar' | zeta
-    %  
-    
+    %
+    %
+    % status
+    % 0: No integer solution find
+    % 1: Stop becausefind optimal solution 
+    % 2: Stop because exceed max repeat times (default: 5000)   
+    %
     % Use exact rational arithmetic 
     format rat;
     eps = 2^-24;
@@ -24,10 +35,6 @@ function [x,val,status,Count] = branch_ILP(f,A,b,d,k,Maxrep)
         Maxrep = 5000;
     end
     model.Maxrep = Maxrep; 
-    % status
-    % 0: No integer solution find
-    % 1: Stop becausefind optimal solution 
-    % 2: Stop because exceed max repeat times (default: 5000)
     x0 = model.b;
     val0 = model.zeta;
     bound = inf;
