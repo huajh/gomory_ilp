@@ -27,8 +27,8 @@ function [ x,val,status,model] = dual_simplex(model)
     xbar = zeros(m+n,1);         
         
     iter = 0;
-    %maxiter = 100;
-    while 1
+    maxiter = 1000;
+    while iter < maxiter
         iter = iter + 1;
        % disp(bbar);
         if all(bbar +eps>= 0 ) %optimial solution is found.
@@ -60,6 +60,7 @@ function [ x,val,status,model] = dual_simplex(model)
         Atmp2(i,:) = Atmp(i,:)/Atmp(i,j);
         Atmp2(:,j) = -Atmp(:,j)/Atmp(i,j);        
         Atmp2(i,j) = 1/Atmp(i,j);
+                
         
         Abar = Atmp2(1:m,1:n);
         bbar = Atmp2(1:m,n+1);
@@ -68,7 +69,8 @@ function [ x,val,status,model] = dual_simplex(model)
         %disp(Atmp2);
     end
     
-    if (status==0)
+    if (status==0 ||  iter == maxiter )        
+        status = 0;
         disp('no feasiable solution');
         return;     
     end

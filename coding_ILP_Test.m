@@ -4,13 +4,14 @@
 % dimension k and minimum distance d.
 %
 clear;clc;
-
-for k=5
+%addpath('.\mip');
+%addpath('.\Kartik');
+for k=6
     N = 2^k-1;
     d_max = ceil((k-1)/2)*2^(k-1);
-    %list_d = [3,4,5,6]; 
-    %list_d = 3;%[3,5,6,7,9,11,13,19,20];
-    for d=3%1:d_max-1%length(list_d)
+    %list_d = [13,21,29]; 
+    %list_d = 3;%[3,5,9,11,13,19,20];
+    for d= 1:d_max-1 %1:length(list_d) 
         %d = list_d(i);
         % n = ?
         %Griesmer bound 
@@ -29,18 +30,29 @@ for k=5
         yidx = true(N,1);
         e=2^-24;
         itermax = 10^5;
-        [x v s]= IP1(f,A,b,[],[],lb,ub,M,e);
-       %[x,v,s] = Gomory_ILP(f,A,b);
+       tic;
+       % [x v s]= IP1(f,A,b,[],[],lb,ub,M,e);
+       %[x,v] = miprog(f,A,b,[],[],lb,ub,yidx);
+       %[c,A,b,v,x,B,iter] = CuttingPlane(f,A,b,eps,M,itermax)
+       Maxrep = 30000;
+       [x,v,status,Count] = branch_ILP(f,A,b,d,k,Maxrep);
+       %[x,v,s] = Gomory_ILP(f,A,b,d,k);
         %options = optimoptions('intlinprog','Display','off');
-        %options = optimoptions('intlinprog','MaxTime',2000);    
+        options = optimoptions('intlinprog','MaxTime',2000);    
         %[x, v, s]  = intlinprog(f,M,A,b,[],[],lb,ub,options); 
+        tot_time = toc;
         n = round(v);
-       % if v > Gries_bound
-            str0 = sprintf('Gries_bound = %d, ',Gries_bound);
-            str = sprintf('[k, d, n] = [%d, %d, %d], ',k,d,n);
-            sf = [ 'x = [' repmat(' %d',1,N) ']\n\n'];
-            str2 = sprintf(sf,x');
-            disp([str0,str, str2]);
+        if status == 0
+            stop_reason = 'No integer solution find';
+        elseif status == 1
+            stop_reason = 'Find optimal solution';
+        elseif status == 2
+            stop_reason = sprintf('Stop because exceed Max repeat times,Maxrep=%d',Maxrep);
+        end
+            disp(stop_reason);
+            sf = ['Total iter=%d, Gries_bound=%d, [k,d,n]=[%d,%d,%d], x=[' repmat(' %d',1,N) '],time=%fs\n\n'];
+            str = sprintf(sf,Count.iter,Gries_bound,k,d,n,x',tot_time);
+            disp(str);
        % end
         
 
