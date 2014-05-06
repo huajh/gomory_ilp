@@ -1,0 +1,171 @@
+Iter=58: left=57,right=0,bound=13,val=-13.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 1 2]
+Iter=66: left=55,right=2,bound=12,val=-12.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 1 1 1]
+Iter=78: left=55,right=2,bound=11,val=-11.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 2 2 1 1]
+Iter=84: left=53,right=2,bound=10,val=-10.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40077,time=154.299732s
+ Gries_bound=9, [k,d,n]=[6,3,10], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 1]
+
+Iter=45: left=44,right=0,bound=11,val=-11.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 0 1 1 0 0 0 0 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40032,time=213.400734s
+ Gries_bound=10, [k,d,n]=[6,4,11], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 0 1 1 0 0 0 0 1 1]
+
+Iter=60: left=59,right=0,bound=17,val=-17.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 2 2 2 2 2 2]
+Iter=81: left=56,right=3,bound=16,val=-16.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 2 2 1 2 2 2 1]
+Iter=89: left=56,right=1,bound=15,val=-15.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 1 1 1 2 1 2 1]
+Iter=195: left=50,right=5,bound=14,val=-14.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40184,time=186.604348s
+ Gries_bound=13, [k,d,n]=[6,5,14], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1]
+
+Iter=48: left=47,right=0,bound=16,val=-16.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1]
+Iter=58: left=41,right=1,bound=15,val=-15.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 1 1 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40042,time=290.430900s
+ Gries_bound=14, [k,d,n]=[6,6,15], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 1 1 1 1]
+
+Iter=59: left=58,right=0,bound=21,val=-21.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 1 0 1 1 2 2 2 1 3 2 2]
+Iter=91: left=56,right=4,bound=20,val=-20.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 1 1 1 1 2 2 1 1 2 1 2]
+Iter=283: left=54,right=3,bound=19,val=-19.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 2 1 1 1 0 1 1 1 0 1 1 2 2 1]
+Iter=389: left=46,right=7,bound=18,val=-18.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 0 1 1 1 0 1 1 0 1 0 1 0 0 0 1 1 1 1 1 1 2]
+Iter=551: left=40,right=8,bound=17,val=-17.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40541,time=314.213372s
+ Gries_bound=16, [k,d,n]=[6,7,17], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0]
+
+Iter=32: left=31,right=0,bound=18,val=-18.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0]
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+Find optimal solution
+strictly larger=1, Total iter=5735,time=48.863780s
+ Gries_bound=17, [k,d,n]=[6,8,18], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0]
+
+Iter=59: left=58,right=0,bound=24,val=-24.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 0 0 2 0 1 1 2 2 2 2 2 2 1]
+Iter=368: left=55,right=13,bound=23,val=-23.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 1 0 1 0 1 1 1 1 1 2 1 2 2 1 1]
+Iter=2175: left=46,right=11,bound=22,val=-22.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=42163,time=228.588079s
+ Gries_bound=21, [k,d,n]=[6,9,22], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0]
+
+Iter=49: left=48,right=0,bound=24,val=-24.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 2 1 2 1 2 1 1]
+Iter=108: left=37,right=5,bound=23,val=-23.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 0 0 0 1 1 1 0 1 1 2 1 1 0 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40101,time=200.330136s
+ Gries_bound=22, [k,d,n]=[6,10,23], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 0 0 0 1 1 1 0 1 1 2 1 1 0 1]
+
+Iter=60: left=59,right=0,bound=30,val=-30.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 1 2 3 3 2 4 2 1]
+Iter=84: left=59,right=2,bound=29,val=-29.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 2 1 1 2 3 2 2 3 2 2]
+Iter=102: left=55,right=5,bound=28,val=-28.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 2 2 2 2 2 2 2 1]
+Iter=699: left=52,right=6,bound=27,val=-27.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 1 0 2 1 0 2 0 1 0 1 0 2 1 2 1 2 1 2]
+Iter=1077: left=46,right=10,bound=26,val=-26.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 2 0 1 1 1 1 0 0 1 0 0 1 0 1 0 1 1 2 1 2 1 2 2 1]
+Iter=2315: left=34,right=12,bound=25,val=-25.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 0 1 0 0 0 1 0 1 0 1 1 1 1 2 1 1 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=42307,time=234.518989s
+ Gries_bound=24, [k,d,n]=[6,11,25], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 0 1 0 0 0 1 0 1 0 1 1 1 1 2 1 1 1 1]
+
+Iter=27: left=26,right=0,bound=26,val=-26.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 2 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 1]
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40016,time=237.613586s
+ Gries_bound=25, [k,d,n]=[6,12,26], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 2 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 1]
+
+Iter=68: left=67,right=0,bound=36,val=-36.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 2 1 3 2 3 3 4 3 3 2]
+Iter=76: left=65,right=4,bound=35,val=-35.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 2 1 3 3 3 3 3 3 2 2]
+Iter=117: left=64,right=6,bound=34,val=-34.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 0 1 2 1 2 2 2 3 2 3 2 3 1 2]
+Iter=240: left=57,right=6,bound=33,val=-33.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 1 2 2 2 2 3 2 3 2 2 1]
+Iter=929: left=58,right=11,bound=32,val=-32.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 2 1 0 1 0 1 1 0 1 2 0 1 2 1 2 2 2 2 3 1 2]
+Iter=5515: left=56,right=13,bound=31,val=-31.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 2 0 0 1 1 1 0 1 1 2 1 2 2 2 2 2]
+Iter=10391: left=50,right=16,bound=30,val=-30.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 2 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 1 1 2 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=50377,time=236.278598s
+ Gries_bound=28, [k,d,n]=[6,13,30], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 2 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 1 1 2 1]
+
+Iter=55: left=54,right=0,bound=34,val=-34.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 2 1 1 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2]
+Iter=61: left=48,right=1,bound=33,val=-33.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 2 0 0 2 0 1 1 1 1 1 1 2 2 1 2 1 2 2 2]
+Iter=93: left=44,right=6,bound=32,val=-32.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 0 1 1 2 1 1 1 2 2 1]
+Iter=309: left=34,right=4,bound=31,val=-31.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 2 0 1 2 1 1 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 1 1 2 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40305,time=155.522322s
+ Gries_bound=29, [k,d,n]=[6,14,31], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 2 0 1 2 1 1 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 1 1 2 1 1]
+
+Iter=79: left=78,right=0,bound=51,val=-51.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 0 1 2 0 0 1 0 0 1 0 2 0 2 2 2 2 6 4 4 5 5 3]
+Iter=81: left=76,right=1,bound=50,val=-50.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 0 1 2 0 0 1 0 0 2 0 2 1 2 2 2 2 5 4 3 5 5 2]
+Iter=85: left=76,right=2,bound=49,val=-49.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 0 1 2 0 0 1 0 0 1 0 2 1 2 2 3 2 5 4 4 4 4 2]
+Iter=98: left=73,right=5,bound=48,val=-48.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 0 1 2 0 0 1 0 0 2 0 2 2 2 2 3 3 4 4 2 4 3 2]
+Iter=122: left=71,right=5,bound=47,val=-47.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 1 1 2 0 0 1 0 0 2 0 2 1 2 2 3 2 4 4 2 4 3 2]
+Iter=325: left=66,right=3,bound=46,val=-46.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 2 2 1 0 2 1 1 2 0 1 1 1 1 1 1 3 2 1 2 2 2 3 2 1 3 3 3]
+Iter=1104: left=63,right=7,bound=45,val=-45.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 2 2 1 0 2 1 1 3 0 2 1 2 1 1 1 2 2 0 2 0 2 2 3 1 3 2 3]
+Iter=1374: left=61,right=7,bound=44,val=-44.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 1 2 1 0 3 1 1 3 1 1 1 2 0 2 0 2 2 0 1 1 2 2 2 1 2 3 3]
+Iter=1524: left=55,right=13,bound=43,val=-43.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 2 2 1 1 2 2 1 2 1 1 1 1 0 1 1 1 2 0 1 1 2 2 2 1 2 3 2]
+Iter=1774: left=51,right=17,bound=42,val=-42.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 1 1 1 2 2 1 2 2 1 1 1 0 1 1 0 1 0 0 1 1 1 2 1 2 2 3 1 2 1 1]
+Iter=25805: left=44,right=19,bound=41,val=-41.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 1 0 1 1 1 1 0 1 0 1 0 1 0 1 1 2 2 2 1 1]
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=65794,time=250.681887s
+ Gries_bound=40, [k,d,n]=[6,19,41], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 1 0 1 1 1 1 0 1 0 1 0 1 0 1 1 2 2 2 1 1]
+
+Iter=49: left=48,right=0,bound=45,val=-45.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 1 0 2 1 2 2 2 1 2 0 1 1 1 0 1 1 0 1 0 2 1 4 2 3 1 3 2 3]
+Iter=56: left=47,right=1,bound=44,val=-44.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 1 1 1 1 2 2 1 2 2 2 1 1 0 1 1 0 0 1 0 1 1 0 2 2 3 2 2 2 2 2]
+Iter=70: left=39,right=2,bound=43,val=-43.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 1 1 1 2 2 1 2 2 1 1 1 0 1 1 0 1 0 0 1 1 1 2 1 2 2 3 1 2 1 1]
+Iter=84: left=27,right=1,bound=42,val=-42.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 2 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 2 1 1]
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+no feasiable solution
+Stop because exceed Max repeat times,Maxrep=20000
+strictly larger=1, Total iter=40074,time=151.462995s
+ Gries_bound=41, [k,d,n]=[6,20,42], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 2 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 2 1 1]
+
+>> 

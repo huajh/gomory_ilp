@@ -1,0 +1,239 @@
+Iter=27: left=26,right=0,bound=5,val=-5.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+Find optimal solution
+Total iter=3649, Gries_bound=5, [k,d,n]=[5,1,5], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1],time=3.861168s
+
+
+Iter=22: left=21,right=0,bound=6,val=-6.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 1 1]
+Find optimal solution
+Total iter=233, Gries_bound=6, [k,d,n]=[5,2,6], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 1 1],time=0.211903s
+
+
+Iter=26: left=25,right=0,bound=10,val=-10.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 2 2]
+Iter=44: left=23,right=2,bound=9,val=-9.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 2 1]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=10040, Gries_bound=8, [k,d,n]=[5,3,9], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 2 1],time=6.397268s
+
+
+Iter=17: left=16,right=0,bound=10,val=-10.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 1 1 0]
+Find optimal solution
+Total iter=1865, Gries_bound=9, [k,d,n]=[5,4,10], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 1 1 0],time=1.612969s
+
+
+Iter=26: left=25,right=0,bound=14,val=-14.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 2 1 1 2 1]
+Iter=34: left=23,right=3,bound=13,val=-13.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 1 1 0 0 1 1 1 1 1 0 1 1]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=10028, Gries_bound=12, [k,d,n]=[5,5,13], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 1 1 0 0 1 1 1 1 1 0 1 1],time=5.979372s
+
+
+Iter=18: left=17,right=0,bound=14,val=-14.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 1 1 1 1 0 0 1 1 1 1 1]
+Find optimal solution
+Total iter=9029, Gries_bound=13, [k,d,n]=[5,6,14], x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 1 1 1 1 0 0 1 1 1 1 1],time=6.486777s
+
+
+Iter=29: left=28,right=0,bound=20,val=-20.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 3 1 1 0 0 1 2 3 2 3 1]
+Iter=37: left=26,right=4,bound=19,val=-19.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 3 1 2 0 1 0 2 2 2 2 1]
+Iter=87: left=26,right=2,bound=18,val=-18.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 2 1 1 0 0 0 2 2 2 2 1]
+Iter=107: left=20,right=3,bound=17,val=-17.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 2 2 2 1 0 0 0 1 2 2 1 1]
+Iter=173: left=18,right=5,bound=16,val=-16.00,x=[ 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 2 0 1 0 1 1 1 1 1 1 0 1 1 1 1 1]
+Iter=268: left=13,right=5,bound=15,val=-15.00,x=[ 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1]
+Find optimal solution
+Total iter=281, Gries_bound=15, [k,d,n]=[5,7,15], x=[ 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1],time=0.171382s
+
+
+Iter=2: left=1,right=0,bound=16,val=-16.00,x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0]
+Find optimal solution
+Total iter=3, Gries_bound=16, [k,d,n]=[5,8,16], x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0],time=0.001561s
+
+
+Iter=33: left=32,right=0,bound=23,val=-23.00,x=[ 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 1 0 0 0 1 2 2 2 1 0 1 2 2 3 2]
+Iter=39: left=28,right=1,bound=22,val=-22.00,x=[ 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 1 0 0 0 1 3 2 2 1 1 0 2 2 2 1]
+Iter=76: left=25,right=11,bound=21,val=-21.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 2 2 2 2 1 0 0 1 2 1]
+Iter=1047: left=18,right=10,bound=20,val=-20.00,x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=11042, Gries_bound=20, [k,d,n]=[5,9,20], x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0],time=8.584624s
+
+
+Iter=21: left=20,right=0,bound=22,val=-22.00,x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 1 2 2 2 1 1 0 0 1 2 1 2 0]
+Iter=31: left=16,right=2,bound=21,val=-21.00,x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0]
+Find optimal solution
+Total iter=267, Gries_bound=21, [k,d,n]=[5,10,21], x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0],time=0.133339s
+
+
+Iter=28: left=27,right=0,bound=26,val=-26.00,x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 2 1 2 2 0 0 2 3 1 3 1]
+Iter=44: left=25,right=4,bound=25,val=-25.00,x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 2 2 2 2 0 0 1 2 1 3 1]
+Iter=102: left=21,right=6,bound=24,val=-24.00,x=[ 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 0 1 1 2 2 2 1 0 0 1 2 1 2 1]
+Iter=270: left=13,right=10,bound=23,val=-23.00,x=[ 0 1 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1]
+Find optimal solution
+Total iter=505, Gries_bound=23, [k,d,n]=[5,11,23], x=[ 0 1 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1],time=0.262049s
+
+
+Iter=13: left=12,right=0,bound=25,val=-25.00,x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 1 0 2 0 1 0 2 2 2 1 1 1 0 1 2 1 1 1]
+Iter=25: left=4,right=2,bound=24,val=-24.00,x=[ 0 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1]
+Find optimal solution
+Total iter=29, Gries_bound=24, [k,d,n]=[5,12,24], x=[ 0 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1],time=0.012404s
+
+
+Iter=33: left=32,right=0,bound=33,val=-33.00,x=[ 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 2 1 0 2 2 3 0 2 4 3 1 4 3]
+Iter=37: left=30,right=1,bound=32,val=-32.00,x=[ 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 2 1 0 2 2 4 0 2 3 3 0 4 3]
+Iter=62: left=29,right=3,bound=31,val=-31.00,x=[ 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 3 3 3 0 1 2 2 2 4 2]
+Iter=89: left=24,right=5,bound=30,val=-30.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 1 2 1 2 3 3 1 0 1 2 2 2 3 1]
+Iter=286: left=23,right=8,bound=29,val=-29.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 2 1 2 2 2 1 1 1 2 2 1 2 1]
+Iter=1787: left=18,right=10,bound=28,val=-28.00,x=[ 0 1 0 0 0 0 1 0 1 0 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 1 2 2 1 1 1]
+Iter=5302: left=17,right=10,bound=27,val=-27.00,x=[ 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Find optimal solution
+Total iter=6219, Gries_bound=27, [k,d,n]=[5,13,27], x=[ 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],time=3.559602s
+
+
+Iter=22: left=21,right=0,bound=31,val=-31.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 2 0 1 2 2 2 1 2 2 1 0 3 3 1 2 1]
+Iter=27: left=18,right=2,bound=30,val=-30.00,x=[ 0 1 0 0 0 0 0 0 1 0 1 1 1 1 1 2 1 2 1 2 1 1 1 2 2 1 2 1 1 2 1]
+Iter=42: left=13,right=2,bound=29,val=-29.00,x=[ 0 1 0 0 0 0 0 0 1 1 1 2 1 1 2 2 0 1 1 1 1 1 2 2 1 1 2 1 0 2 1]
+Iter=83: left=6,right=6,bound=28,val=-28.00,x=[ 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1]
+Find optimal solution
+Total iter=89, Gries_bound=28, [k,d,n]=[5,14,28], x=[ 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1],time=0.039011s
+
+
+Iter=31: left=30,right=0,bound=36,val=-36.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 2 0 1 2 2 2 2 2 2 0 0 3 4 3 4 2]
+Iter=41: left=28,right=2,bound=35,val=-35.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 2 0 1 2 2 2 2 2 3 0 0 2 4 2 4 2]
+Iter=72: left=25,right=6,bound=34,val=-34.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 2 0 1 2 2 2 2 3 3 1 0 2 2 1 3 2]
+Iter=159: left=22,right=9,bound=33,val=-33.00,x=[ 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 2 1 1 1 1 2 3 3 2 1 0 1 2 2 3 2]
+Iter=283: left=18,right=10,bound=32,val=-32.00,x=[ 0 1 0 0 0 0 1 0 1 0 1 2 1 1 1 3 0 1 0 2 2 2 2 2 1 0 2 2 1 2 1]
+Iter=523: left=14,right=7,bound=31,val=-31.00,x=[ 0 1 0 0 0 0 1 1 1 1 1 2 2 1 1 2 1 0 0 1 2 2 2 2 1 0 1 2 1 1 1]
+Iter=729: left=12,right=13,bound=30,val=-30.00,x=[ 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Find optimal solution
+Total iter=741, Gries_bound=30, [k,d,n]=[5,15,30], x=[ 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],time=0.342723s
+
+
+Iter=1: left=0,right=0,bound=31,val=-31.00,x=[ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Find optimal solution
+Total iter=1, Gries_bound=31, [k,d,n]=[5,16,31], x=[ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1],time=0.000991s
+
+
+Iter=35: left=34,right=0,bound=39,val=-39.00,x=[ 1 0 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 2 2 0 1 2 2 1 1 3 3 2 3 5]
+Iter=60: left=31,right=4,bound=38,val=-38.00,x=[ 1 0 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 2 2 0 2 2 3 0 2 2 3 1 3 4]
+Iter=87: left=28,right=7,bound=37,val=-37.00,x=[ 1 0 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 2 2 1 2 3 2 0 1 2 2 2 3 3]
+Iter=580: left=23,right=13,bound=36,val=-36.00,x=[ 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 2 2 2 2 2 1 1 1 1 2 2 2 2]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=10581, Gries_bound=36, [k,d,n]=[5,17,36], x=[ 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 2 2 2 2 2 1 1 1 1 2 2 2 2],time=6.271514s
+
+
+Iter=23: left=22,right=0,bound=38,val=-38.00,x=[ 1 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 2 3 2 2 2 2 1 1 1 1 2 2 3 3]
+Iter=30: left=21,right=2,bound=37,val=-37.00,x=[ 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 2 2 2 2 2 1 1 1 1 2 2 2 2]
+Find optimal solution
+Total iter=4493, Gries_bound=37, [k,d,n]=[5,18,37], x=[ 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 2 2 2 2 2 1 1 1 1 2 2 2 2],time=1.757884s
+
+
+Iter=32: left=31,right=0,bound=42,val=-42.00,x=[ 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 2 1 2 2 2 2 3 2 1 0 1 3 3 4 4]
+Iter=53: left=26,right=8,bound=41,val=-41.00,x=[ 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 2 1 2 2 3 3 3 2 1 0 0 3 3 3 3]
+Iter=153: left=22,right=11,bound=40,val=-40.00,x=[ 1 1 1 1 1 1 1 0 1 1 0 0 0 1 1 1 1 2 3 2 2 2 2 1 1 1 1 2 2 3 3]
+Iter=237: left=20,right=10,bound=39,val=-39.00,x=[ 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 2 1 1 1 2 2 2 2 2 1 0 1 2 2 2 2]
+Find optimal solution
+Total iter=4833, Gries_bound=39, [k,d,n]=[5,19,39], x=[ 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 2 1 1 1 2 2 2 2 2 1 0 1 2 2 2 2],time=2.010923s
+
+
+Iter=13: left=12,right=0,bound=40,val=-40.00,x=[ 1 1 1 1 1 1 1 0 1 1 1 1 1 2 1 2 1 2 2 2 1 1 1 1 2 2 2 2 1 1 2]
+Find optimal solution
+Total iter=25, Gries_bound=40, [k,d,n]=[5,20,40], x=[ 1 1 1 1 1 1 1 0 1 1 1 1 1 2 1 2 1 2 2 2 1 1 1 1 2 2 2 2 1 1 2],time=0.008772s
+
+
+Iter=34: left=33,right=0,bound=47,val=-47.00,x=[ 1 1 0 1 1 1 1 0 1 0 0 0 0 0 1 1 1 2 3 4 4 3 2 2 0 0 2 4 3 5 3]
+Iter=131: left=30,right=10,bound=46,val=-46.00,x=[ 1 1 0 1 1 1 1 0 1 0 0 0 0 1 1 1 1 2 3 3 3 4 3 1 0 1 2 3 3 4 3]
+Iter=395: left=26,right=14,bound=45,val=-45.00,x=[ 1 1 1 1 1 1 1 0 1 0 0 1 0 2 1 1 1 2 3 2 2 3 3 1 1 2 2 2 2 3 3]
+Iter=703: left=24,right=15,bound=44,val=-44.00,x=[ 1 1 1 1 1 1 1 0 1 1 0 1 0 2 1 2 1 2 2 2 1 2 3 2 1 1 2 2 2 3 3]
+Iter=7847: left=16,right=16,bound=43,val=-43.00,x=[ 1 1 1 1 1 1 1 0 1 1 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=17843, Gries_bound=43, [k,d,n]=[5,21,43], x=[ 1 1 1 1 1 1 1 0 1 1 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2],time=9.471998s
+
+
+Iter=28: left=27,right=0,bound=47,val=-47.00,x=[ 1 0 1 1 1 1 0 0 1 1 0 0 0 2 1 1 1 2 3 3 3 4 3 1 1 1 1 3 4 3 3]
+Iter=33: left=24,right=1,bound=46,val=-46.00,x=[ 1 1 1 1 1 1 0 0 1 1 0 1 0 2 1 2 1 2 2 2 2 3 3 2 2 1 1 2 3 3 3]
+Iter=46: left=21,right=3,bound=45,val=-45.00,x=[ 1 1 1 1 1 1 0 1 1 1 1 1 1 2 1 2 1 2 1 2 2 3 2 2 2 1 1 2 3 2 2]
+Iter=64: left=13,right=2,bound=44,val=-44.00,x=[ 1 1 1 1 1 1 0 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2]
+Find optimal solution
+Total iter=77, Gries_bound=44, [k,d,n]=[5,22,44], x=[ 1 1 1 1 1 1 0 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2],time=0.028925s
+
+
+Iter=35: left=34,right=0,bound=52,val=-52.00,x=[ 1 1 1 1 1 1 0 0 1 0 0 0 0 1 1 2 1 2 2 2 2 4 4 3 1 0 2 3 4 6 5]
+Iter=51: left=32,right=2,bound=51,val=-51.00,x=[ 1 1 1 1 1 1 0 0 1 0 0 0 0 1 1 2 1 2 2 3 2 4 4 3 1 0 2 3 4 5 4]
+Iter=67: left=28,right=5,bound=50,val=-50.00,x=[ 1 1 1 1 1 1 1 0 1 0 0 0 0 1 1 2 1 2 2 3 2 4 4 3 0 0 2 3 3 5 4]
+Iter=110: left=27,right=8,bound=49,val=-49.00,x=[ 1 1 1 1 1 1 1 0 1 1 0 0 0 1 1 2 1 2 3 3 3 3 3 2 1 0 1 3 3 4 4]
+Iter=204: left=21,right=10,bound=48,val=-48.00,x=[ 1 1 1 1 1 1 1 0 1 1 0 1 1 2 1 2 2 2 3 2 2 2 2 1 2 2 2 3 2 2 3]
+Iter=578: left=17,right=8,bound=47,val=-47.00,x=[ 1 1 1 1 1 1 1 0 1 1 1 2 1 2 2 3 1 2 2 2 1 1 2 2 2 2 3 2 1 2 2]
+Iter=837: left=14,right=10,bound=46,val=-46.00,x=[ 1 1 1 1 1 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2 1 2]
+Find optimal solution
+Total iter=851, Gries_bound=46, [k,d,n]=[5,23,46], x=[ 1 1 1 1 1 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2 1 2],time=0.411186s
+
+
+Iter=2: left=1,right=0,bound=47,val=-47.00,x=[ 1 2 1 1 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2 1 2 1]
+Find optimal solution
+Total iter=3, Gries_bound=47, [k,d,n]=[5,24,47], x=[ 1 2 1 1 1 1 2 1 2 1 2 2 2 1 2 2 1 1 1 2 2 2 2 2 1 1 2 2 1 2 1],time=0.002534s
+
+
+Iter=34: left=33,right=0,bound=55,val=-55.00,x=[ 1 2 1 1 1 1 1 0 1 1 0 2 1 1 2 1 2 2 3 1 1 2 3 3 2 3 4 2 1 5 4]
+Iter=64: left=29,right=7,bound=54,val=-54.00,x=[ 1 2 1 1 1 1 1 0 1 1 0 2 1 1 2 1 2 2 3 1 1 2 4 4 3 3 3 1 0 4 4]
+Iter=143: left=28,right=10,bound=53,val=-53.00,x=[ 1 2 1 1 1 1 1 0 2 1 0 2 1 1 2 1 2 2 3 1 2 2 4 3 3 2 2 1 1 4 3]
+Iter=819: left=24,right=12,bound=52,val=-52.00,x=[ 1 2 1 1 1 1 2 0 2 1 0 2 1 1 2 2 1 1 2 3 3 3 3 2 1 1 2 3 2 3 2]
+Iter=1168: left=23,right=5,bound=51,val=-51.00,x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 1 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2]
+Stop because exceed Max repeat times,Maxrep=5000
+Total iter=11164, Gries_bound=51, [k,d,n]=[5,25,51], x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 1 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2],time=5.460218s
+
+
+Iter=24: left=23,right=0,bound=54,val=-54.00,x=[ 1 2 1 0 1 1 2 0 2 1 0 2 1 1 2 2 1 1 3 2 3 3 4 2 1 1 2 3 2 4 3]
+Iter=38: left=21,right=5,bound=53,val=-53.00,x=[ 1 2 1 1 1 1 2 0 2 1 1 2 1 1 2 2 1 1 2 3 3 3 3 2 1 1 2 3 2 3 2]
+Iter=52: left=13,right=1,bound=52,val=-52.00,x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2]
+Find optimal solution
+Total iter=279, Gries_bound=52, [k,d,n]=[5,26,52], x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2],time=0.115757s
+
+
+Iter=41: left=40,right=0,bound=63,val=-63.00,x=[ 1 2 1 0 1 0 0 0 1 0 0 1 0 1 2 1 1 1 4 2 5 5 6 3 1 1 4 4 4 7 4]
+Iter=45: left=38,right=1,bound=62,val=-62.00,x=[ 1 2 1 0 1 0 0 0 1 0 0 1 0 1 2 1 1 1 4 2 5 5 6 4 1 1 3 4 3 7 4]
+Iter=78: left=35,right=7,bound=61,val=-61.00,x=[ 1 2 1 0 1 0 1 0 1 0 0 1 0 1 2 1 1 1 4 2 5 5 6 3 1 1 3 4 3 6 4]
+Iter=93: left=34,right=3,bound=60,val=-60.00,x=[ 1 2 1 0 1 1 1 0 1 0 0 2 0 1 2 1 1 1 4 2 4 5 5 3 1 2 3 3 2 6 4]
+Iter=114: left=33,right=2,bound=59,val=-59.00,x=[ 1 2 1 0 1 1 1 0 1 1 0 2 0 1 2 1 1 1 4 3 4 5 5 2 0 1 3 3 3 5 4]
+Iter=144: left=29,right=2,bound=58,val=-58.00,x=[ 1 2 1 1 1 1 1 0 2 1 0 2 0 1 2 1 1 1 4 3 4 3 5 3 1 0 3 3 2 5 3]
+Iter=316: left=25,right=11,bound=57,val=-57.00,x=[ 1 2 1 0 1 1 2 0 2 1 0 2 1 1 2 2 1 1 3 3 4 4 4 2 1 1 2 3 2 4 3]
+Iter=440: left=25,right=12,bound=56,val=-56.00,x=[ 1 2 1 1 1 1 2 0 2 1 0 2 1 1 2 2 2 1 3 2 3 3 4 2 1 1 2 3 2 4 3]
+Iter=548: left=21,right=8,bound=55,val=-55.00,x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 1 2 3 1 1 1 3 3 3 3 3 1 0 2 3 2 3 2]
+Iter=895: left=12,right=11,bound=54,val=-54.00,x=[ 1 2 1 1 1 1 2 1 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2]
+Find optimal solution
+Total iter=1119, Gries_bound=54, [k,d,n]=[5,27,54], x=[ 1 2 1 1 1 1 2 1 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2],time=0.519260s
+
+
+Iter=13: left=12,right=0,bound=56,val=-56.00,x=[ 1 2 1 1 1 1 2 0 2 1 2 2 2 2 2 3 1 2 2 3 2 2 2 2 2 2 3 3 1 2 2]
+Iter=25: left=4,right=2,bound=55,val=-55.00,x=[ 1 2 1 1 2 1 2 1 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2]
+Find optimal solution
+Total iter=29, Gries_bound=55, [k,d,n]=[5,28,55], x=[ 1 2 1 1 2 1 2 1 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1 2 2],time=0.008535s
+
+
+Iter=38: left=37,right=0,bound=65,val=-65.00,x=[ 1 1 1 1 1 1 2 0 2 1 0 1 0 2 1 2 1 2 2 3 2 4 5 3 2 0 3 4 4 6 7]
+Iter=66: left=35,right=4,bound=64,val=-64.00,x=[ 1 1 1 1 1 1 2 0 2 1 0 1 0 2 1 2 1 2 2 3 2 4 6 3 2 0 3 3 4 6 6]
+Iter=103: left=32,right=2,bound=63,val=-63.00,x=[ 1 1 1 1 1 1 2 0 2 1 0 1 0 2 1 2 1 2 3 3 3 4 5 3 2 0 2 4 3 5 6]
+Iter=144: left=31,right=5,bound=62,val=-62.00,x=[ 1 1 1 1 1 1 2 0 2 1 0 1 1 2 1 2 1 2 3 4 4 4 4 2 1 0 2 5 4 4 4]
+Iter=624: left=27,right=11,bound=61,val=-61.00,x=[ 1 2 1 1 1 1 2 0 2 1 0 2 1 2 1 2 2 2 3 3 4 4 3 1 2 2 2 4 3 3 3]
+Iter=1054: left=23,right=16,bound=60,val=-60.00,x=[ 1 2 1 1 1 1 2 0 2 1 1 2 1 2 2 3 1 2 2 3 2 3 4 3 1 1 3 3 2 4 3]
+Iter=2070: left=21,right=13,bound=59,val=-59.00,x=[ 1 2 1 1 1 1 2 1 2 1 2 2 2 2 2 3 2 2 2 3 2 2 2 2 2 2 3 3 2 2 2]
+Iter=8662: left=17,right=14,bound=58,val=-58.00,x=[ 1 2 1 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+Find optimal solution
+Total iter=9597, Gries_bound=58, [k,d,n]=[5,29,58], x=[ 1 2 1 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],time=4.429588s
+
+
+Iter=27: left=26,right=0,bound=63,val=-63.00,x=[ 1 2 1 1 1 1 1 0 2 0 1 2 1 2 2 3 1 2 2 2 3 4 5 3 2 1 3 3 3 5 3]
+Iter=29: left=24,right=1,bound=62,val=-62.00,x=[ 1 2 1 1 1 1 1 0 2 1 1 2 1 2 2 3 1 2 2 3 3 4 4 3 2 1 2 3 3 4 3]
+Iter=42: left=21,right=3,bound=61,val=-61.00,x=[ 1 2 1 1 1 1 1 1 2 1 2 2 2 2 2 3 1 2 1 3 3 4 3 3 2 1 2 3 3 3 2]
+Iter=60: left=13,right=2,bound=60,val=-60.00,x=[ 1 2 1 1 1 1 1 1 2 2 2 3 2 2 3 3 1 2 2 2 2 2 3 3 2 2 3 2 1 3 2]
+Iter=101: left=6,right=6,bound=59,val=-59.00,x=[ 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2]
+Find optimal solution
+Total iter=107, Gries_bound=59, [k,d,n]=[5,30,59], x=[ 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2],time=0.033434s
+
+
+Iter=37: left=36,right=0,bound=70,val=-70.00,x=[ 0 2 1 0 1 1 1 0 1 1 0 2 1 1 2 3 1 1 3 2 4 5 5 5 1 2 3 5 3 8 5]
+Iter=59: left=34,right=1,bound=69,val=-69.00,x=[ 0 2 1 0 1 1 1 0 1 1 0 2 1 1 2 3 1 1 3 2 5 5 6 4 1 1 3 4 4 8 4]
+Iter=66: left=33,right=3,bound=68,val=-68.00,x=[ 0 2 1 0 1 1 1 0 1 1 0 2 1 1 2 3 1 1 3 3 5 5 6 4 1 0 3 4 4 7 4]
+Iter=113: left=32,right=4,bound=67,val=-67.00,x=[ 0 2 1 1 1 1 1 0 2 1 0 2 1 1 2 3 1 1 3 4 4 5 5 4 0 0 3 5 4 6 3]
+Iter=185: left=26,right=13,bound=66,val=-66.00,x=[ 1 2 1 0 1 1 2 0 2 1 0 2 1 1 2 3 1 1 3 4 5 5 5 3 1 0 2 4 3 5 4]
+Iter=243: left=24,right=7,bound=65,val=-65.00,x=[ 1 2 1 1 1 1 2 0 2 1 1 1 1 1 2 3 1 2 3 4 4 4 4 3 1 0 2 4 3 5 4]
+Iter=350: left=21,right=11,bound=64,val=-64.00,x=[ 1 2 1 1 1 1 2 0 2 1 1 2 2 2 2 3 2 2 3 3 3 3 3 2 2 2 3 4 2 3 3]
+Iter=728: left=17,right=8,bound=63,val=-63.00,x=[ 1 2 1 1 1 1 2 0 2 1 2 3 2 2 3 4 1 2 2 3 2 2 3 3 2 2 4 3 1 3 2]
+Iter=1043: left=14,right=10,bound=62,val=-62.00,x=[ 1 2 1 1 1 1 2 2 2 2 2 3 3 2 2 3 2 1 1 2 3 3 3 3 2 1 2 3 2 2 2]
+Iter=1253: left=12,right=13,bound=61,val=-61.00,x=[ 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+Find optimal solution
+Total iter=1265, Gries_bound=61, [k,d,n]=[5,31,61], x=[ 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2],time=0.539939s
